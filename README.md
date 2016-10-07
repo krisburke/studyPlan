@@ -5,9 +5,9 @@ This list started as a fork of [Google Interview University](https://github.com/
 
 This is my multi-month study plan for building a foundation of computer science and software knowledge.
 
-I intend to start a blog to help document this process, and will add that link here. I will also add links here to any repos that I use to practice the topics I learn here. Also, I will be adding to and removing these resources as I go from top to bottom, mostly. I may also somehow add a spreadsheet that I have been using for a while to keep up with my hours and pages while studying from books.
-
-**BLOG:** [krisburke.me](http://www.krisburke.me)
+  **My Blog:** [krisburke.me](http://www.krisburke.me)
+  
+  [Reading and Study Time Tracker]()
 
 ## Table of Contents
 

@@ -6,13 +6,13 @@ This list started as a fork of [Google Interview University](https://github.com/
 This is my multi-month study plan for building a foundation of computer science and software knowledge.
 
   **My Blog:** [krisburke.me](http://www.krisburke.me)
-  
+
   [Reading and Study Time Tracker]()
 
 ## Table of Contents
 
 - [The Plan](#the-plan)
-- [Intro and Language Specific](#intro-and-language-specific)
+- [Some Basics](#some-basics)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -33,6 +33,7 @@ This is my multi-month study plan for building a foundation of computer science 
     - [N-ary (K-ary, M-ary) trees](#n-ary-k-ary-m-ary-trees)
 - [Sorting](#sorting)
 - [Graphs](#graphs)
+- [Language Specific](#language-specific)
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
@@ -92,26 +93,17 @@ This is my multi-month study plan for building a foundation of computer science 
 
 ## The Plan
 
-The original guide was written with a focus on the following languages:
-* Python
-* C
-* C++
+*NOTE: The original guide was written with a focus on learning Python, C and C++. I haven't yet decided which languages I will use and learn, so I will keep the guide and language specific sections the same for now. I do know I will be adding JavaScript specific code to maintain familiarity and comfort with it while learning other languages.*
 
-*I haven't yet decided which languages I will use and learn, so I will keep the guide and language specific sections the same for now. I do know I will be adding JavaScript specific code to maintain familiarity and comfort with it while learning other languages.*
+[On the importance of comfort with your chosen interview language](https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-    C - using structs and functions that take a struct * and something else as args.
-    C++ - without using built-in types
-    C++ - using built-in types, like STL's std::list for a linked list
-    Python - using built-in types (to keep practicing Python)
-    and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
+* C - using structs and functions that take a struct * and something else as args.
+* C++ - without using built-in types
+* C++ - using built-in types, like STL's std::list for a linked list
+* Python - using built-in types (to keep practicing Python)
 
-Why code in all of these?
-    Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-    Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-    Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
-
-I may not have time to do all of these for every subject, but I'll try.
+and write tests sometimes just using simple assert() statements
 
 After creating practice repos I will add the links here:
  - [JavaScript](https://github.com/akbur/)
@@ -120,14 +112,7 @@ After creating practice repos I will add the links here:
  - [C++](https://github.com/akbur/) ?
  - [Java](https://github.com/akbur/) ?
 
-Remember:
-Don't try to memorize the guts of every algorithm.
-Write code on a whiteboard, not a computer. Test with some sample inputs.
-Then test it out on a computer to make sure it's not buggy from syntax.
-
-## Intro and Language Specific
-
-- [On the importance of comfort with your chosen interview language](https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/)
+## Some Basics
 
 - [ ] **How computers process a program:**
     - [ ] [How does CPU execute program](https://www.youtube.com/watch?v=42KTvGYQYnA)
@@ -140,45 +125,6 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - [ ] **Computer Arch Intro:**
     (first video only - interesting but not required) [Introduction and Basics - Carnegie Mellon - Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1)
-
-- [ ] **C**
-    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [ ] K&R C book (ANSI C)
-    - [ ] [Make, Clang](https://www.youtube.com/watch?v=U3zCxnj2w8M)
-    - [ ] GDB:
-        - https://www.youtube.com/watch?v=USPvePv1uzE
-        - https://www.youtube.com/watch?v=y5JmQItfFck
-      - [Valgrind](https://www.youtube.com/watch?v=fvTsFjDuag8)
-- [ ] **C++**
-    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [ ] basics
-    - [ ] pointers
-    - [ ] functions
-    - [ ] references
-    - [ ] templates
-    - [ ] compilation
-    - [ ] scope & linkage
-    - [ ] namespaces
-    - [ ] OOP
-    - [ ] STL
-    - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
-    - [ ] [C++ at Google](https://www.youtube.com/watch?v=NOCElcMcFik)
-    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-        - [ ] Google uses clang-format (there is a command line "style" argument: -style=google)
-    - [ ] [Efficiency with Algorithms, Performance with Data Structures](https://youtu.be/fHNmRkzxHWs)
-    - [ ] [Review of C++ concepts](https://www.youtube.com/watch?v=Rub-JsjMhWY)
-
-- [ ] **Python**
-    - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-    - [ ] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
-    - [ ] [Series on 3.4](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-    - [ ] [Zero to Hero](https://www.youtube.com/watch?v=emY34tSKXc4)
-    - [ ] [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-    - [ ] [Faster Python](https://www.youtube.com/watch?v=JDSGVvMwNM8)
-    - [ ] [CPython Walk](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
-    - [ ] [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs)
-    - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
 - [ ] **Compilers**
     - [ ] https://class.coursera.org/compilers-004/lecture/1
@@ -205,7 +151,6 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-
 
     If some of the lectures are too mathy, you can jump down to the bottom and
     watch the discrete mathematics videos to get the background knowledge.
@@ -251,8 +196,9 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [ ] Description:
         - [ ] [Singly Linked Lists](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
         - [ ] [CS 61B - Linked lists](https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5)
-    - [ ] [C Code](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
-            - not the whole video, just portions about Node struct and memory allocation.
+    - [ ] C Code
+        - [C Code](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
+        *not the whole video, just portions about Node struct and memory allocation.*
     - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
@@ -478,7 +424,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
     - [ ] MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through): https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 
 - ### Balanced search trees
-    - Know least one type of balanced binary tree (and know how it's implemented):
+    - Know at least one type of balanced binary tree (and know how it's implemented):
     - "Among balanced search trees, AVL and 2/3 trees are now passé, and red-black trees seem to be more popular.
         A particularly interesting self-organizing data structure is the splay tree, which uses rotations
         to move any accessed key to the root." - Skiena
@@ -510,8 +456,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             networking, and file system code) etc.
         - [ ] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
         - [ ] MIT Lecture: Splay Trees:
-                - Gets very mathy, but watch the last 10 minutes for sure.
-                - https://www.youtube.com/watch?v=QnPl_Y6EqMo
+          - Gets very mathy, but watch the last 10 minutes for sure.
+          - https://www.youtube.com/watch?v=QnPl_Y6EqMo
 
     - [ ] **2-3 search trees**
         - In practice:
@@ -543,8 +489,8 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [ ] B-Tree Definition and Insertion: https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] B-Tree Deletion: https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
         - [ ] MIT 6.851 - Memory Hierarchy Models: https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
-                - covers cache-oblivious B-Trees, very interesting data structures
-                - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
+          - covers cache-oblivious B-Trees, very interesting data structures
+          - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
     - [ ] **Red/black trees**
         - In practice:
@@ -696,6 +642,57 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 You'll get more graph practice in Skiena's book (see Books section below) and the interview books
 
+## Language Specific
+
+- [ ] **C**
+    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+    - [ ] K&R C book (ANSI C)
+    - [ ] [Make, Clang](https://www.youtube.com/watch?v=U3zCxnj2w8M)
+    - [ ] GDB:
+        - https://www.youtube.com/watch?v=USPvePv1uzE
+        - https://www.youtube.com/watch?v=y5JmQItfFck
+      - [Valgrind](https://www.youtube.com/watch?v=fvTsFjDuag8)
+- [ ] **C++**
+    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - [ ] basics
+    - [ ] pointers
+    - [ ] functions
+    - [ ] references
+    - [ ] templates
+    - [ ] compilation
+    - [ ] scope & linkage
+    - [ ] namespaces
+    - [ ] OOP
+    - [ ] STL
+    - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
+    - [ ] [C++ at Google](https://www.youtube.com/watch?v=NOCElcMcFik)
+    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+        - [ ] Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [ ] [Efficiency with Algorithms, Performance with Data Structures](https://youtu.be/fHNmRkzxHWs)
+    - [ ] [Review of C++ concepts](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+
+- [ ] **Python**
+    - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+    - [ ] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+    - [ ] [Series on 3.4](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+    - [ ] [Zero to Hero](https://www.youtube.com/watch?v=emY34tSKXc4)
+    - [ ] [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+    - [ ] [Faster Python](https://www.youtube.com/watch?v=JDSGVvMwNM8)
+    - [ ] [CPython Walk](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
+    - [ ] [10 Tips for Pythonic Code](https://www.youtube.com/watch?v=_O23jIXsshs)
+    - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+- [ ] **Go**
+    - [ ] Videos:
+        - [ ] Why Learn Go?: https://www.youtube.com/watch?v=FTl0tl9BGdc
+        - [ ] Go Programming: https://www.youtube.com/watch?v=CF9S4QZuV30
+        - [ ] A Tour of Go: https://www.youtube.com/watch?v=ytEkHepK08c
+    - [ ] Books:
+        - [ ] An Introduction to Programming in Go (read free online): https://www.golang-book.com/books/intro
+        - [ ] The Go Programming Language (Donovan & Kernighan): https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440
+    - [ ] Bootcamp: https://www.golang-book.com/guides/bootcamp
+
 ## Even More Knowledge
 
 - ### Recursion
@@ -816,8 +813,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] Mutex in Python: https://www.youtube.com/watch?v=0zaPs8OtyKY
 
 
-    Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider
-    when designing a software/hardware system that can scale. Expect to spend quite a bit of time on this.
+  Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider
+  when designing a software/hardware system that can scale. Expect to spend quite a bit of time on this.
 
 - ### System Design, Scalability, Data Handling
     - Considerations from Yegge:
@@ -1120,9 +1117,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 ## Final Review
 
-    This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
-    (More items will be added here)
+  This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
+  It's nice if you want a refresher often.
+  (More items will be added here)
 
 #### General:
 
@@ -1166,7 +1163,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 ### Additional books
 
-    These were not suggested by Google but I added because I needed the background knowledge
+  These were not suggested by Google but I added because I needed the background knowledge
 
 - [ ] C Programming Language, Vol 2
     - answers to questions: https://github.com/lekkas/c-algorithms
@@ -1295,8 +1292,8 @@ Take coding challenges every day, as many as you can.
 
 ## Additional Learnings (not required)
 
-    Everything below is my recommendation, not Google's, and you may not have enough time to
-    learn, watch or read them all. That's ok. I may not either.
+  Everything below is my recommendation, not Google's, and you may not have enough time to
+  learn, watch or read them all. That's ok. I may not either.
 
 - ### Information theory
     - [ ] Khan Academy: https://www.khanacademy.org/computing/computer-science/informationtheory
@@ -1483,9 +1480,10 @@ Take coding challenges every day, as many as you can.
     - [ ] Practical Guide to implementing Neural Networks in Python (using Theano): http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/
     - [ ] Vector calculus: https://www.youtube.com/watch?v=tDtYAddb4o4
     - Courses:
-        - [ ] Great starter course: Machine Learning: https://www.coursera.org/learn/machine-learning
-              - videos only: https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
-              - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
+        - [ ] Great starter course: Machine Learning:
+          https://www.coursera.org/learn/machine-learning
+            - videos only: https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
+            - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
         - [ ] Neural Networks for Machine Learning: https://www.coursera.org/learn/neural-networks
         - [ ] Google's Deep Learning Nanodegree: https://www.udacity.com/course/deep-learning--ud730
         - [ ] Google/Kaggle Machine Learning Engineer Nanodegree: https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009
@@ -1495,23 +1493,13 @@ Take coding challenges every day, as many as you can.
         - Great book: Data Science from Scratch: First Principles with Python: https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X
         - Data School: http://www.dataschool.io/
 
-- ### Go
-    - [ ] Videos:
-        - [ ] Why Learn Go?: https://www.youtube.com/watch?v=FTl0tl9BGdc
-        - [ ] Go Programming: https://www.youtube.com/watch?v=CF9S4QZuV30
-        - [ ] A Tour of Go: https://www.youtube.com/watch?v=ytEkHepK08c
-    - [ ] Books:
-        - [ ] An Introduction to Programming in Go (read free online): https://www.golang-book.com/books/intro
-        - [ ] The Go Programming Language (Donovan & Kernighan): https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440
-    - [ ] Bootcamp: https://www.golang-book.com/guides/bootcamp
-
 --
 
 ## Additional Detail on Some Subjects
 
-    I added these to reinforce some ideas already presented above, but didn't want to include them
-    above because it's just too much. It's easy to overdo it on a subject.
-    You want to get hired in this century, right?
+  I added these to reinforce some ideas already presented above, but didn't want to include them
+  above because it's just too much. It's easy to overdo it on a subject.
+  You want to get hired in this century, right?
 
 - [ ] **More Dynamic Programming**
     - [ ] 6.006: Dynamic Programming I: Fibonacci, Shortest Paths: https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19

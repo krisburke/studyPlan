@@ -11,8 +11,8 @@ This is my multi-month study plan for building a foundation of computer science 
 
 ## Table of Contents
 
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
+- [The Plan](#the-plan)
+- [Intro and Language Specific](#intro-and-language-specific)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
@@ -90,23 +90,44 @@ This is my multi-month study plan for building a foundation of computer science 
 
 --
 
+## The Plan
 
+The original guide was written with a focus on the following languages:
+* Python
+* C
+* C++
 
-## Prerequisite Knowledge
+*I haven't yet decided which languages I will use and learn, so I will keep the guide and language specific sections the same for now. I do know I will be adding JavaScript specific code to maintain familiarity and comfort with it while learning other languages.*
 
-This is the original section for prerequisite knowledge, based on the writing wanting to be comfortable with the programming languages C, C++, and Python. I'm going to keep this section, since I have not yet decided what other programming languages I would like to learn.
+Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
+    C - using structs and functions that take a struct * and something else as args.
+    C++ - without using built-in types
+    C++ - using built-in types, like STL's std::list for a linked list
+    Python - using built-in types (to keep practicing Python)
+    and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
 
-Right now, I am very comfortable with JavaScript. I have used Python and Clojure, though I don't know a lot of the built-in capabilities without looking them up and I am not entirely comfortable in the overall programming environment of each. Other than that, I have tried out a few other languages only briefly: Java, Ruby, , php, C, C++ ...
+Why code in all of these?
+    Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
+    Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
+    Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
 
-My current plan:
-* get very comfortable with Python
-* maintain my comfort with JavaScript
-* learn either C/C++ **or** Java (I haven't decided yet)
-  - Java is appealing because of its popularity and Clojure.
-  - C/C++ because of its performance, lower level ideas, works well with Linux,
-  - I'm leaning towards C/C++, so that's why I'm keeping this section of the guide
+I may not have time to do all of these for every subject, but I'll try.
 
-    - [On the importance of comfort with your chosen interview language](https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/)
+After creating practice repos I will add the links here:
+ - [JavaScript](https://github.com/akbur/)
+ - [Python](https://github.com/akbur/)
+ - [C](https://github.com/akbur/) ?
+ - [C++](https://github.com/akbur/) ?
+ - [Java](https://github.com/akbur/) ?
+
+Remember:
+Don't try to memorize the guts of every algorithm.
+Write code on a whiteboard, not a computer. Test with some sample inputs.
+Then test it out on a computer to make sure it's not buggy from syntax.
+
+## Intro and Language Specific
+
+- [On the importance of comfort with your chosen interview language](https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 - [ ] **How computers process a program:**
     - [ ] [How does CPU execute program](https://www.youtube.com/watch?v=42KTvGYQYnA)
@@ -164,36 +185,6 @@ My current plan:
     - [ ] https://class.coursera.org/compilers-004/lecture/2
     - [ ] C++: https://www.youtube.com/watch?v=twodd1KFfGk
     - [ ] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
-
-## The Daily Plan
-
-I am not entirely sure of my daily plan since I have not yet decided on the languages I will use for this. For now I will keep the plan from the original repo. I will do something similar to this with the languages I choose and will include JavaScript.
-
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-    C - using structs and functions that take a struct * and something else as args.
-    C++ - without using built-in types
-    C++ - using built-in types, like STL's std::list for a linked list
-    Python - using built-in types (to keep practicing Python)
-    and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-    You may do Java or something else, this is just my thing.
-
-Why code in all of these?
-    Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-    Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-    Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
-
-I may not have time to do all of these for every subject, but I'll try.
-
-After creating practice repos I will add the links here:
- - [JavaScript] (https://github.com/akbur/)
- - [Python] (https://github.com/akbur/)
- - [C] (https://github.com/akbur/)
- - [C++] (https://github.com/akbur/)
-
-Remember:
-Don't try to memorize the guts of every algorithm.
-Write code on a whiteboard, not a computer. Test with some sample inputs.
-Then test it out on a computer to make sure it's not buggy from syntax.
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement

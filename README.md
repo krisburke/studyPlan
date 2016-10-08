@@ -1,7 +1,7 @@
 
 # Study Plan
 
-This list started as a fork of [Google Interview University](https://github.com/jwasham/google-interview-university). I have, and continue to, modify the resources and topics to fit my own personal study goals.
+This list started as a fork of [Google Interview University](https://github.com/jwasham/google-interview-university). I have modified the resources and topics to fit my own personal study goals, and will continue to.
 
 This is my multi-month study plan for building a foundation of computer science and software knowledge.
 
@@ -20,10 +20,6 @@ This is my multi-month study plan for building a foundation of computer science 
     - [Stack](#stack)
     - [Queue](#queue)
     - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Endianness](#endianness)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
 - [Trees](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
@@ -33,8 +29,10 @@ This is my multi-month study plan for building a foundation of computer science 
     - [N-ary (K-ary, M-ary) trees](#n-ary-k-ary-m-ary-trees)
 - [Sorting](#sorting)
 - [Graphs](#graphs)
-- [Language Specific](#language-specific)
-- [Even More Knowledge](#even-more-knowledge)
+- [More Topics](#more-topics)
+    - [Endianness](#endianness)
+    - [Binary search](#binary-search)
+    - [Bitwise operations](#bitwise-operations)
     - [Recursion](#recursion)
     - [Dynamic Programming](#dynamic-programming)
     - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
@@ -53,15 +51,6 @@ This is my multi-month study plan for building a foundation of computer science 
     - [Scheduling](#scheduling)
     - [Implement system routines](#implement-system-routines)
     - [String searching & manipulations](#string-searching--manipulations)
-- [Final Review](#final-review)
-- [Books](#books)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Additional Learnings (not required)](#additional-learnings-not-required)
     - [Information theory](#information-theory)
     - [Parity & Hamming Code](#parity--hamming-code)
     - [Entropy](#entropy)
@@ -84,18 +73,17 @@ This is my multi-month study plan for building a foundation of computer science 
     - [Geometry, Convex hull](#geometry-convex-hull)
     - [Discrete math](#discrete-math)
     - [Machine Learning](#machine-learning)
-    - [Go](#go)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
-- [Once You've Got The Job](#once-youve-got-the-job)
+- [Book Answers/Notes](#books-answersnotes)
+- [Coding exercises/challenges](#coding-exerciseschallenges)
+- [Language Specific](#language-specific)
+- [Other](#other)
 
 --
 
 ## The Plan
 
 *NOTE: The original guide was written with a focus on learning Python, C and C++. I haven't yet decided which languages I will use and learn, so I will keep the guide and language specific sections the same for now. I do know I will be adding JavaScript specific code to maintain familiarity and comfort with it while learning other languages.*
-
-[On the importance of comfort with your chosen interview language](https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/)
 
 Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
 * C - using structs and functions that take a struct * and something else as args.
@@ -133,10 +121,9 @@ After creating practice repos I will add the links here:
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (vide)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena:
-    - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-    - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
+- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [ ] [CSE373 2012 - Lecture 02 - Big-O Notation - Skiena (video)](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+- [ ] [CSE373 2012 - Lecture 02 - Big-O Notation - Skiena (slides)](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (vide)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
@@ -144,9 +131,8 @@ After creating practice repos I will add the links here:
 - [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
-- [ ] TopCoder (includes recurrence relations and master theorem):
-    - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
-    - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
+- [ ] [Computational Complexity: Section 1 - TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
+- [ ] [Computational Complexity: Section 2 - TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Data Structures
@@ -271,50 +257,6 @@ After creating practice repos I will add the links here:
         - exists(key)
         - get(key)
         - remove(key)
-
-## More Knowledge
-
-- ### Endianness
-    - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
-    - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
-    - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
-        - Very technical talk for kernel devs. Don't worry if most is over your head.
-        - The first half is enough.
-
-- ### Binary search
-    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
-    - [ ] Implement:
-        - binary search (on sorted array of integers)
-        - binary search using recursion
-
-- ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
-    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
-        - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
-        - [ ] Good intro:
-            [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
-        - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
-        - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
-        - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
-        - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
-        - [ ] 2s and 1s complement
-        - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
-        - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
-        - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-        - [ ] count set bits
-        - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
-        - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
-        - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-        - [ ] round to next power of 2:
-        - [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
-        - [ ] swap values:
-        - [Swap](http://bits.stephan-brumme.com/swap.html)
-        - [ ] absolute value:
-        - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
 
@@ -521,6 +463,7 @@ After creating practice repos I will add the links here:
 - [ ] [Insertion Sort, Merge Sort (video)](https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [ ] [Insertion Sort (video)](https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB)
 - [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB)
+- [ ] [Merge Sort](https://www.youtube.com/watch?v=GCae1WNvnZM)
 - [ ] [Quicksort (video)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
 - [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB)
 
@@ -566,8 +509,6 @@ After creating practice repos I will add the links here:
 
 ## Graphs
 
-Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
-
 - Notes from Yegge:
     - There are three basic ways to represent a graph in memory:
         - objects and pointers
@@ -586,7 +527,6 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [CSE373 2012 - Lecture 16 - Graph Algorithms (con't 3) (video)](https://www.youtube.com/watch?v=jgDOQq6iWy8&index=16&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 
 - [ ] Graphs (review and more):
-
     - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.006 Bellman-Ford (video)](https://www.youtube.com/watch?v=ozsuci5pIso&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=17)
@@ -601,7 +541,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://www.youtube.com/watch?v=RpgcYiky7uw)
 
 - Full Coursera Course:
-    - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+    - [ ] [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - Yegge: If you get a chance, try to study up on fancier algorithms:
     - [ ] Dijkstra's algorithm - see above - 6.006
@@ -628,65 +568,53 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 You'll get more graph practice in Skiena's book (see Books section below) and the interview books
 
-## Language Specific
+- [ ] More advanced Graph Processing
+    - [ ] [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees (video)](https://www.youtube.com/watch?v=mUBmcbbJNf4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=27)
+    - [ ] [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees (video)](https://www.youtube.com/watch?v=kQ-UQAzcnzA&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=28)
 
-### C
-    - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [ ] K&R C book (ANSI C)
-    - [ ] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
-    - [ ] GDB:
-        - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
-        - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
-      - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
+## More Topics
 
-### C++
-    - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [ ] basics
-    - [ ] pointers
-    - [ ] functions
-    - [ ] references
-    - [ ] templates
-    - [ ] compilation
-    - [ ] scope & linkage
-    - [ ] namespaces
-    - [ ] OOP
-    - [ ] STL
-    - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
-    - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
-    - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-        - Google uses clang-format (there is a command line "style" argument: -style=google)
-    - [ ] [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
-    - [ ] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+- ### Endianness
+    - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
+    - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
+    - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
+        - Very technical talk for kernel devs. Don't worry if most is over your head.
+        - The first half is enough.
 
-### Python
-    - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-    - [ ] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
-    - [ ] [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-    - [ ] [Zero to Hero](https://www.youtube.com/watch?v=emY34tSKXc4)
-    - [ ] [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
-    - [ ] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
-    - [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
-    - [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
-    - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- ### Binary search
+    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+    - [ ] Implement:
+        - binary search (on sorted array of integers)
+        - binary search using recursion
 
-### Go
-    - [ ] Videos:
-        - [ ] [Why Learn Go?](https://www.youtube.com/watch?v=FTl0tl9BGdc)
-        - [ ] [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30)
-        - [ ] [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
-    - [ ] Books:
-        - [ ] [An Introduction to Programming in Go (read free online)](https://www.golang-book.com/books/intro)
-        - [ ] [The Go Programming Language (Donovan & Kernighan) (Amazon-link)](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
-    - [ ] [Bootcamp](https://www.golang-book.com/guides/bootcamp)
-
-### Java
-    - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
-    - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-    - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
-    - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)  
-
-## Even More Knowledge
+- ### Bitwise operations
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
+        - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+        - [ ] Good intro:
+            [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
+        - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
+        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+        - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
+        - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
+        - [ ] 2s and 1s complement
+        - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
+        - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
+        - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
+        - [ ] count set bits
+        - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
+        - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
+        - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
+        - [ ] round to next power of 2:
+        - [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
+        - [ ] swap values:
+        - [Swap](http://bits.stephan-brumme.com/swap.html)
+        - [ ] absolute value:
+        - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
 - ### Recursion
     - [ ] Stanford lectures on recursion & backtracking:
@@ -723,6 +651,14 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
         - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
         - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
+    - [ ] Addition Information
+        - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths (video)](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
+        - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack (video)](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+        - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack (video)](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
+        - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros. (video)](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+        - [ ] [6.046: Dynamic Programming & Advanced DP (video)](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+        - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths (video)](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
+        - [ ] [6.046: Dynamic Programming (student recitation) (video)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
 
 - ### Combinatorics (n choose k) & Probability
     - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
@@ -733,6 +669,15 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
             - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic)
         - Just the videos - 41 (each are simple and each are short):
             - [ ] [Probability Explained (video)](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
+    - [ ] MIT Probability
+        - [ ] [MIT 6.042J - Probability Introduction](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Conditional Probability](https://www.youtube.com/watch?v=E6FbvM-FGZ8&index=19&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Independence](https://www.youtube.com/watch?v=l1BCv3qqW4A&index=20&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Random Variables](https://www.youtube.com/watch?v=MOfhhFaQdjw&list=PLB7540DEDD482705B&index=21)
+        - [ ] [MIT 6.042J - Expectation I](https://www.youtube.com/watch?v=gGlMSe7uEkA&index=22&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Expectation II](https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
+        - [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
 
 - ### NP, NP-Complete and Approximation Algorithms
     - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
@@ -754,6 +699,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - Peter Norvik discusses near-optimal solutions to traveling salesman problem:
         - [Jupyter Notebook](http://nbviewer.jupyter.org/url/norvig.com/ipython/TSP.ipynb)
     - Pages 1048 - 1140 in CLRS if you have it.
+    - [ ] [Simonson: Approximation Algorithms (video)](https://www.youtube.com/watch?v=oDniZCmNmNw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=19)
 
 - ### Garbage collection
     - [ ] [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
@@ -1009,7 +955,6 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
         - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
-
 - ### Unix Command Line Tools
     - [Conquering the Command Line (book - read online)](http://conqueringthecommandline.com/book/frontmatter)
     - [Unix Power Tools (book - read online)](http://docstore.mik.ua/orelly/unix3/upt/)
@@ -1104,163 +1049,6 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://www.youtube.com/watch?v=QDZpzctPf10)
     - [ ] [Coursera: Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/home/week/1)
 
----
-
-## Final Review
-
-#### General:
-
-  - [ ] [Series of 2-3 minutes short subject videos (23 videos)](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-  - [ ] [Series of 2-5 minutes short subject videos - Michael Sambol (18 videos)](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
-
-#### Sorts:
-
-  - [ ] [Merge Sort](https://www.youtube.com/watch?v=GCae1WNvnZM)
-
-## Books
-
-### Mentioned in Google Coaching
-
-**Read and do exercises:**
-
-- [ ] The Algorithm Design Manual (Skiena)
-    - [Book (Amazon-link)](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-    - [Answers](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
-    - [Answers](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
-    - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
-
-**Read first:**
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition (link to purchase)](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-
-**Read second (recommended by many, but not in Google coaching docs):**
-- [ ] [Cracking the Coding Interview, 6th Edition (Amazon-link)](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-
-### Additional books
-
-    These were not suggested by Google but I added because I needed the background knowledge
-
-- [ ] C Programming Language, Vol 2
-    - [answers to questions](https://github.com/lekkas/c-algorithms)
-
-- [ ] C++ Primer Plus, 6th Edition
-
-- [ ] [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
-
-- [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
-
-- [ ] [Algorithms and Programming: Problems and Solutions](http://www.amazon.com/Algorithms-Programming-Solutions-Alexander-Shen/dp/0817638474)
-
-### If you have time
-
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-    - Half.com is a great resource for textbooks at good prices.
-
-- [ ] [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-    - all code is in C++, if you're looking to use C++ in your interview
-    - good book on problem solving in general.
-
-## Coding exercises/challenges
-
-Once you've learned your brains out, put those brains to work.
-Take coding challenges every day, as many as you can.
-
-- [ ] [Great intro (copied from System Design section): Algorithm design:](http://www.hiredintech.com/algorithm-design/)
-- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
-- [ ] [Mathematics for Topcoders](https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/)
-- [ ] [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-
-- [MIT Interview Materials](https://courses.csail.mit.edu/iap/interview/materials.php)
-
-    - [LeetCode](https://leetcode.com/)
-    - [TopCoder](https://www.topcoder.com/)
-    - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
-    - [Codewars](http://www.codewars.com)
-    - [HackerRank](https://www.hackerrank.com/)
-    - [Codility](https://codility.com/programmers/)
-    - [InterviewCake](https://www.interviewcake.com/)
-    - [InterviewBit](https://www.interviewbit.com/invite/icjf)
-
-    - [Exercises for getting better at a given language](http://exercism.io/languages)
-
-## Once you're closer to the interview
-
-- [ ] Cracking The Coding Interview Set 2 (videos):
-    - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
-    - [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
-    - [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-
-
-    ## Interview Process & General Interview Prep
-
-    - [ ] Videos:
-        - [ ] [How to Work at Google - Candidate Coaching Session](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-        - [ ] [Google Recruiters Share Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-        - [ ] [How to Work at Google: Tech Resume Preparation](https://www.youtube.com/watch?v=8npJLXkcmu8)
-
-    - [ ] Articles:
-        - [ ] [Becoming a Googler in Three Steps](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
-        - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-            - all the things he mentions that you need to know are listed below
-        - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-        - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-
-    - [ ] Additional (not suggested by Google but I added):
-        - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-        - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
-        - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-        - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-        - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-        - [ ] Cracking The Coding Interview Set 1:
-            - [ ] [Gayle L McDowell - Cracking The Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-            - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-        - [ ] How to Get a Job at the Big 4:
-            - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft'](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-        - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
-
-## Your Resume
-
-- [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
-- Great stuff at the back of Cracking The Coding Interview
-
-## Be thinking of for when the interview comes
-
-    Think of about 20 interview questions you'll get, along the lines of the items below.
-    Have 2-3 answers for each
-    Have a story, not just data, about something you accomplished
-
-- Why do you want this job?
-- What's a tough problem you've solved?
-- Biggest challenges faced?
-- Best/worst designs seen?
-- Ideas for improving an existing Google product.
-- How do you work best, as an individual and as part of a team?
-- Which of your skills or experiences would be assets in the role and why?
-- What did you most enjoy at [job x / project y]?
-- What was the biggest challenge you faced at [job x / project y]?
-- What was the hardest bug you faced at [job x / project y]?
-- What did you learn at [job x / project y]?
-- What would you have done better at [job x / project y]?
-
-## Have questions for the interviewer
-
-    Some of mine (I already may know answer to but want their opinion or team perspective):
-
-- How large is your team?
-- What is your dev cycle look like? Do you do waterfall/sprints/agile?
-- Are rushes to deadlines common? Or is there flexibility?
-- How are decisions made in your team?
-- How many meetings do you have per week?
-- Do you feel your work environment helps you concentrate?
-- What are you working on?
-- What do you like about it?
-- What is the work life like?
-
----
-
----
-
-## Additional Learnings (not required)
 - ### Information theory (videos)
     - [ ] [Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
     - [ ] more about Markov processes:
@@ -1405,15 +1193,15 @@ Take coding challenges every day, as many as you can.
     - [ ] [Data Structures: Treaps explained (video)](https://www.youtube.com/watch?v=6podLUYinH8)
     - [ ] [Applications in set operations](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 
-- ### Linear Programming (videos)
-    - [ ] [Linear Programming](https://www.youtube.com/watch?v=M4K6HYLHREQ)
-    - [ ] [Finding minimum cost](https://www.youtube.com/watch?v=2ACJ9ewUC6U)
-    - [ ] [Finding maximum value](https://www.youtube.com/watch?v=8AA_81xI3ik)
+- ### Linear Programming
+    - [ ] [Linear Programming (video)](https://www.youtube.com/watch?v=M4K6HYLHREQ)
+    - [ ] [Finding minimum cost (video)](https://www.youtube.com/watch?v=2ACJ9ewUC6U)
+    - [ ] [Finding maximum value (video)](https://www.youtube.com/watch?v=8AA_81xI3ik)
 
-- ### Geometry, Convex hull (videos)
-    - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
-    - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
-    - [ ] [Divide & Conquer: Convex Hull, Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
+- ### Geometry, Convex hull
+    - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (videos)](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
+    - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10 (videos)](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
+    - [ ] [Divide & Conquer: Convex Hull, Median Finding (videos)](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 - ### Discrete math
     - see videos below
@@ -1429,7 +1217,7 @@ Take coding challenges every day, as many as you can.
     - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
     - [ ] [Practical Guide to implementing Neural Networks in Python](using Theano)])http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
     - [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
-    - Courses: (videos)
+    - Courses:
         - [ ] [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
               - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
               - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
@@ -1439,39 +1227,15 @@ Take coding challenges every day, as many as you can.
         - [ ] [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
         - [ ] [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
     - Resources:
-        - Great book: Data Science from Scratch: First Principles with Python: https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X
-        - Data School: http://www.dataschool.io/
+        - [Data Science from Scratch: First Principles with Python (Amazon-link)](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+        - [Data School](http://www.dataschool.io/)
 
---
-
-## Additional Detail on Some Subjects
-
-- [ ] **More Dynamic Programming** (videos)
-    - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
-    - [ ][ 6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
-    - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
-    - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
-    - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
-
-    - [ ] **Advanced Graph Processing** (videos)
-    - [ ] [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=mUBmcbbJNf4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=27)
-    - [ ] [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=kQ-UQAzcnzA&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=28)
-
-- [ ] MIT **Probability**
-    - [ ] [MIT 6.042J - Probability Introduction](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Conditional Probability](https://www.youtube.com/watch?v=E6FbvM-FGZ8&index=19&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Independence](https://www.youtube.com/watch?v=l1BCv3qqW4A&index=20&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Random Variables](https://www.youtube.com/watch?v=MOfhhFaQdjw&list=PLB7540DEDD482705B&index=21)
-    - [ ] [MIT 6.042J - Expectation I](https://www.youtube.com/watch?v=gGlMSe7uEkA&index=22&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Expectation II](https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
-    - [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
-
-- [ ] [Simonson: Approximation Algorithms (video)](https://www.youtube.com/watch?v=oDniZCmNmNw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=19)
 
 ## Video Series
+
+- [ ] [Series of 2-3 minutes short subject videos (23 videos)](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
+
+- [ ] [Series of 2-5 minutes short subject videos - Michael Sambol (18 videos)](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
 - [ ] [List of individual Dynamic Programming problems (each is short)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
@@ -1526,7 +1290,97 @@ Take coding challenges every day, as many as you can.
 
 - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 ---
-## Other - place links here before sorting to another section
+
+## Book Answers/Notes
+
+- [ ] The Algorithm Design Manual (Skiena)
+    - [Answers](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
+    - [Answers](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
+    - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
+
+- [ ] C Programming Language, Vol 2
+    - [answers to questions](https://github.com/lekkas/c-algorithms)
+
+## Coding exercises/challenges
+
+- [ ] [Great intro (copied from System Design section): Algorithm design](http://www.hiredintech.com/algorithm-design/)
+- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
+- [ ] [Mathematics for Topcoders](https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/)
+- [ ] [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+
+  - [LeetCode](https://leetcode.com/)
+  - [TopCoder](https://www.topcoder.com/)
+  - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
+  - [Codewars](http://www.codewars.com)
+  - [HackerRank](https://www.hackerrank.com/)
+  - [Codility](https://codility.com/programmers/)
+  - [InterviewCake](https://www.interviewcake.com/)
+  - [InterviewBit](https://www.interviewbit.com/invite/icjf)
+
+  - [Exercises for getting better at a given language](http://exercism.io/languages)
+
+## Language Specific
+
+  - ### C
+      - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+      - [ ] K&R C book (ANSI C)
+      - [ ] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
+      - [ ] GDB:
+          - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
+          - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
+        - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
+
+  - ### C++
+      - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+      - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+      - [ ] basics
+      - [ ] pointers
+      - [ ] functions
+      - [ ] references
+      - [ ] templates
+      - [ ] compilation
+      - [ ] scope & linkage
+      - [ ] namespaces
+      - [ ] OOP
+      - [ ] STL
+      - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
+      - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
+      - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+          - Google uses clang-format (there is a command line "style" argument: -style=google)
+      - [ ] [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
+      - [ ] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+
+  - ### Python
+      - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+      - [ ] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
+      - [ ] [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+      - [ ] [Zero to Hero](https://www.youtube.com/watch?v=emY34tSKXc4)
+      - [ ] [Statistics for Hackers (video)](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
+      - [ ] [Faster Python (video)](https://www.youtube.com/watch?v=JDSGVvMwNM8)
+      - [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
+      - [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
+      - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
+  - ### Go
+      - [ ] Videos:
+          - [ ] [Why Learn Go?](https://www.youtube.com/watch?v=FTl0tl9BGdc)
+          - [ ] [Go Programming](https://www.youtube.com/watch?v=CF9S4QZuV30)
+          - [ ] [A Tour of Go](https://www.youtube.com/watch?v=ytEkHepK08c)
+      - [ ] Books:
+          - [ ] [An Introduction to Programming in Go (read free online)](https://www.golang-book.com/books/intro)
+          - [ ] [The Go Programming Language (Donovan & Kernighan) (Amazon-link)](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
+      - [ ] [Bootcamp](https://www.golang-book.com/guides/bootcamp)
+
+  - ### Java
+      - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
+      - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
+      - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
+      - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
+
+## Other
+
+Placing some links here before sorting to another section
 
 [JavaScript Algorithms I](https://github.com/akbur/js-algorithms)
 [JavaScript Algorithms II](https://github.com/akbur/algoClass)

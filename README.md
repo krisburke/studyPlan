@@ -1,7 +1,7 @@
 
 # Study Plan
 
-This list started as a fork of [Google Interview University](https://github.com/jwasham/google-interview-university). I have modified the resources and topics to fit my own personal study goals, and will continue to.
+This list started as a fork of [Google Interview University](https://github.com/jwasham/google-interview-university). I have modified the resources and topics to fit my own personal study goals. Still in progress...
 
 #### Links
 [**My Blog**](http://www.krisburke.me)
@@ -48,7 +48,7 @@ This list started as a fork of [Google Interview University](https://github.com/
     - [Scheduling](#scheduling)
     - [Implement system routines](#implement-system-routines)
     - [String searching & manipulations](#string-searching--manipulations)
-    - [Information theory](#information-theory)
+    - [Information Theory](#information-theory)
     - [Parity & Hamming Code](#parity--hamming-code)
     - [Entropy](#entropy)
     - [Cryptography](#cryptography)
@@ -72,12 +72,12 @@ This list started as a fork of [Google Interview University](https://github.com/
     - [Machine Learning](#machine-learning)
     - [Papers](#papers)
 - [Video Series](#video-series)
-- [Book Answers/Notes](#books-answersnotes)
+- [Book Answers](#book-answers)
 - [Coding exercises/challenges](#coding-exerciseschallenges)
 - [Language Specific](#language-specific)
 - [Other](#other)
 
---__
+____
 
 ## Algorithmic Complexity
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
@@ -990,21 +990,19 @@ This list started as a fork of [Google Interview University](https://github.com/
         - [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://www.youtube.com/watch?v=QDZpzctPf10)
     - [ ] [Coursera: Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/home/week/1)
 
-- ### Information theory (videos)
-    - [ ] [Khan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory)
-    - [ ] more about Markov processes:
-        - [ ] [Core Markov Text Generation](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation)
-        - [ ] [Core Implementing Markov Text Generation](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/gZhiC/core-implementing-markov-text-generation)
-        - [ ] [Project = Markov Text Generation Walk Through](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/EUjrq/project-markov-text-generation-walk-through)
+- ### Information Theory
+    - [ ] [Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/informationtheory)
+    - [ ] [Core Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation)
+    - [ ] [Core Implementing Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/gZhiC/core-implementing-markov-text-generation)
+    - [ ] [Project = Markov Text Generation Walk Through (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/EUjrq/project-markov-text-generation-walk-through)
     - See more in MIT 6.050J Information and Entropy series below.
 
-- ### Parity & Hamming Code (videos)
-    - [ ] [Intro](https://www.youtube.com/watch?v=q-3BctoUpHE)
-    - [ ] [Parity](https://www.youtube.com/watch?v=DdMcAUlxh1M)
-    - [ ] Hamming Code:
-        - [Error detection](https://www.youtube.com/watch?v=1A_NcXxdoCc)
-        - [Error correction](https://www.youtube.com/watch?v=JAMLuxdHH8o)
-    - [ ] [Error Checking](https://www.youtube.com/watch?v=wbH2VxzmoZk)
+- ### Parity & Hamming Code
+    - [ ] [Intro (video)](https://www.youtube.com/watch?v=q-3BctoUpHE)
+    - [ ] [Parity (video)](https://www.youtube.com/watch?v=DdMcAUlxh1M)
+    - [ ] [Error detection (video)](https://www.youtube.com/watch?v=1A_NcXxdoCc)
+    - [ ] [Error correction (video)](https://www.youtube.com/watch?v=JAMLuxdHH8o)
+    - [ ] [Error Checking (video)](https://www.youtube.com/watch?v=wbH2VxzmoZk)
 
 - ### Entropy
     - also see videos below
@@ -1030,17 +1028,17 @@ This list started as a fork of [Google Interview University](https://github.com/
     - [ ] [Compressor Head videos](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H)
     - [ ] [(optional) Google Developers Live: GZIP is not enough!](https://www.youtube.com/watch?v=whGwm0Lky2s)
 
-- ### Networking (videos)
-    - [ ] [Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
-    - [ ] [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8)
-    - [ ] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
-    - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial.](https://www.youtube.com/watch?v=nomyRJehhnM)
-    - [ ] [HTTP](https://www.youtube.com/watch?v=WGJrLqtX7As)
-    - [ ] [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
-    - [ ] [SSL/TLS](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
-    - [ ] [HTTP 2.0](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
+- ### Networking
+    - [ ] [Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/internet-intro)
+    - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://www.youtube.com/watch?v=Vdc8TCESIg8)
+    - [ ] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+    - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://www.youtube.com/watch?v=nomyRJehhnM)
+    - [ ] [HTTP (video)](https://www.youtube.com/watch?v=WGJrLqtX7As)
+    - [ ] [SSL and HTTPS (video)](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
+    - [ ] [SSL/TLS (video)](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
+    - [ ] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
     - [ ] [Video Series (21 videos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
-    - [ ] [Subnetting Demystified - Part 5 CIDR Notation](https://www.youtube.com/watch?v=t5xYI0jzOf4)
+    - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://www.youtube.com/watch?v=t5xYI0jzOf4)
 
 - ### Computer Security
     - [MIT (23 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
@@ -1258,7 +1256,7 @@ This list started as a fork of [Google Interview University](https://github.com/
 
 ---
 
-## Book Answers/Notes
+## Book Answers
 
 - [ ] The Algorithm Design Manual (Skiena)
     - [Answers](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))

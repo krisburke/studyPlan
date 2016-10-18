@@ -6,9 +6,11 @@ This list started as a fork of [Google Interview University](https://github.com/
 
 #### Links
 [**My Blog**](http://www.krisburke.me)
+
+My plan is to do all of my following studies in both Python and JavaScript. JavaScript to stay comfortable with it, and Python to get better with it Then, after some making progress with these two add another language.
+
 * [JavaScript Code](https://github.com/akbur/dsa-js)
 * [Python Code](https://github.com/akbur/dsa-py)
-* [C Code](https://github.com/akbur/dsa-c)
 
 ## Table of Contents
 

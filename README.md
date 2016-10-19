@@ -51,9 +51,9 @@ My plan is to do all of my following studies in both Python and JavaScript. Java
 ____
 
 ## Algorithmic Complexity
-  - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-  - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-  - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+  - [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+  - [x] [Big O Notation - Java (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+  - [x] [Big O Notation (and Omega and Theta) - Mathematical Explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
   - [ ] [CSE373 2012 - Lecture 02 - Big-O Notation - Skiena (video)](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
   - [ ] [CSE373 2012 - Lecture 02 - Big-O Notation - Skiena (slides)](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
   - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
@@ -88,13 +88,13 @@ ____
     - [ ] [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 
 - ### Stack
-    - [ ] [Stacks (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [x] [Stacks (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
 
 - ### Queue
-    - [ ] [Queue (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [x] [Queue (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Using Queues First-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [x] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
 
 - ### Hash table
@@ -117,7 +117,8 @@ ____
 - ### Trees
 
     - [ ] [Series: Core Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
-    - [ ] [Series: Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [x] [Series: Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [x] [Tree Traversal (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/fr51b/tree-traversal)
     - [ ] [Breadth First Search - MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [Depth First Search - MIT (video)](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
     - **Binary search trees: BSTs**
@@ -136,8 +137,8 @@ ____
         - [ ] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [ ] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - **Heap / Priority Queue / Binary Heap**
-        - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-        - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
+        - [ ] [Heap Data Structure](https://en.wikipedia.org/wiki/Heap_(data_structure))
+        - [x] [Introduction to Priority Queues (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
         - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
         - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
         - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
@@ -303,7 +304,7 @@ ____
     - [ ] [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://www.youtube.com/watch?v=mFPmKGIrQs4&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
     - [ ] [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)]( https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
     - [ ] [MIT 6.046: Design and Analysis of Algorithms (34 videos)](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    
+
 ## NP, NP-Complete & Approximation Algorithms
 - [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
 - [ ] [Greedy Algs. II & Intro to NP Completeness - Simonson (video)](https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939)
@@ -901,7 +902,7 @@ ____
     - [ ] [Cryptography: Encryption (video)](https://www.youtube.com/watch?v=9TNI2wHmaeI&index=31&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - [ ] [Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k&feature=youtu.be)
         - [more in series (not in order)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
-    
+
 ## Papers
 - [ ] [1978: Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
     - [implemented in Go](https://godoc.org/github.com/thomas11/csp)

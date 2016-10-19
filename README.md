@@ -17,12 +17,13 @@ My plan is to do all of my following studies in both Python and JavaScript. Java
 - [Algorithmic Complexity](#algorithmic-complexity)
 - [Data Structures](#data-structures)
 - [Sorting and Searching](#sorting-and-searching)
-- [Endianness](#endianness)
-- [Bitwise operations](#bitwise-operations)
+- [Advanced Data Structures & Algorithms](#advanced-data-structures--algorithms)
+- [NP, NP-Complete & Approximation Algorithms](#np-np-complete--approximation-algorithms)
+- [String Searching & Manipulations](#string-searching--manipulations)
 - [Recursion](#recursion)
 - [Dynamic Programming](#dynamic-programming)
-- [Combinatorics & Probability](#combinatorics--probability)
-- [NP, NP-Complete & Approximation Algorithms](#np-np-complete--approximation-algorithms)
+- [Computer Architecture](#computer-architecture)
+- [Computing](#computing)
 - [Garbage collection](#garbage-collection)
 - [Caches](#caches)
 - [Processes and Threads](#processes-and-threads)
@@ -31,32 +32,21 @@ My plan is to do all of my following studies in both Python and JavaScript. Java
 - [Unicode](#unicode)
 - [Testing](#testing)
 - [Design patterns](#design-patterns)
-- [String searching & manipulations](#string-searching--manipulations)
 - [Information Theory](#information-theory)
 - [Parity & Hamming Code](#parity--hamming-code)
 - [Entropy](#entropy)
 - [Compression](#compression)
 - [Parallel Programming](#parallel-programming)
 - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-- [Fast Fourier Transform](#fast-fourier-transform)
-- [Bloom Filter](#bloom-filter)
-- [van Emde Boas Trees](#van-emde-boas-trees)
-- [Augmented Data Structures](#augmented-data-structures)
-- [Skip lists](#skip-lists)
 - [Network Flows](#network-flows)
-- [Disjoint Sets & Union Find](#disjoint-sets--union-find)
-- [Math for Fast Processing](#math-for-fast-processing)
-- [Linear Programming](#linear-programming)
-- [Geometry, Convex hull](#geometry-convex-hull)
+- [Mathematics For Computer Science](#mathematics-for-computer-science)
 - [Machine Learning](#machine-learning)
 - [Information Security](#information-security)
 - [Papers](#papers)
 - [Video Series](#video-series)
-- [Book Answers](#book-answers)
-- [Book Recommendations](#book-recommendations)
-- [Coding Exercises](#coding-exercises)
+- [Books](#books)
 - [Language Specific](#language-specific)
-- [Other](#other)
+- [Other Resources](#other-resources)
 
 ____
 
@@ -146,7 +136,7 @@ ____
         - [ ] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [ ] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
     - **Heap / Priority Queue / Binary Heap**
-        - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure)
+        - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
         - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
         - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
         - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
@@ -282,31 +272,71 @@ ____
     - [ ] [Radix Sort, Counting Sort (Linear Time Given Constraints) (video)](https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' Algorithm (video)](https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - [ ] [Sorting in Linear Time (video)](https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14)
+    
+## Advanced Data Structures & Algorithms
+- ### Fast Fourier Transform
+    - [ ] [What is a Fourier transform? What is it used for?](http://www.askamathematician.com/2012/09/q-what-is-a-fourier-transform-what-is-it-used-for/)
+    - [ ] [What is the Fourier Transform? (video)](https://www.youtube.com/watch?v=Xxut2PN-V8Q)
+    - [ ] [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
+    - [ ] [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
+- ### Bloom Filter
+    - [ ] [Bloom Filters (video)](https://www.youtube.com/watch?v=-SuTGoFYjZs)
+    - [ ] [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://www.youtube.com/watch?v=qBTdukbzc78)
+    - [ ] [Bloom Filter Tutorial](http://billmill.org/bloomfilter-tutorial/)
+    - [ ] [How To Write A Bloom Filter App](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
+- ### van Emde Boas Trees
+    - [ ] [Divide & Conquer: van Emde Boas Trees (video)](https://www.youtube.com/watch?v=hmReJCupbNU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=6)
+    - [ ] [MIT Lecture Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture-notes/MIT6_046JS12_lec15.pdf)
+- ### Augmented Data Structures
+    - [ ] [CS 61B Lecture 39: Augmenting Data Structures](https://youtu.be/zksIj9O8_jc?list=PL4BBB74C7D2A1049C&t=950)
+- ### Skip lists
+    - [ ] [Skip Lists](https://en.wikipedia.org/wiki/Skip_list)
+    - [ ] [Randomization: Skip Lists (video)](https://www.youtube.com/watch?v=2g9OSRKJuzM&index=10&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- ### Disjoint Sets & Union Find
+  - [ ] [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+  - [ ] [UCB 61B - Disjoint Sets; Sorting & selection (video)](https://www.youtube.com/watch?v=MAEGXTwmUsI&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=21)
+  - Coursera
+    - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
+    - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
+    - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
+    - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
+    - [ ] [Path Compression](https://www.coursera.org/learn/data-structures/lecture/Q9CVI/path-compression)
+    - [ ] [Analysis Options](https://www.coursera.org/learn/data-structures/lecture/GQQLN/analysis-optional)
+- ### Video Series
+    - [ ] [Skiena lectures from Algorithm Design Manual](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
+    - [ ] [MIT 6.006: Intro to Algorithms (47 videos)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&nohtml5=False)
+    - [ ] [MIT 6.851: Advanced Data Structures (22 videos)](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=1)
+    - [ ] [MIT 6.854: Advanced Algorithms, Spring 2016 (24 videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
+    - [ ] [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://www.youtube.com/watch?v=mFPmKGIrQs4&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+    - [ ] [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)]( https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
+    - [ ] [MIT 6.046: Design and Analysis of Algorithms (34 videos)](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+    
+## NP, NP-Complete & Approximation Algorithms
+- [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
+- [ ] [Greedy Algs. II & Intro to NP Completeness - Simonson (video)](https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939)
+- [ ] [NP Completeness II & Reductions - Simonson (video)](https://www.youtube.com/watch?v=e0tGC6ZQdQE&index=16&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
+- [ ] [NP Completeness III - Simonson (video)](https://www.youtube.com/watch?v=fCX1BGT3wjE&index=17&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
+- [ ] [NP Completeness IV - Simonson (video)](https://www.youtube.com/watch?v=NKLDp3Rch3M&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=18)
+- [ ] [CSE373 2012 - Skiena Lecture 23 - Introduction to NP-CompletenessNP Completeness IV (video)](https://youtu.be/KiK5TVgXbFg?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1508)
+- [ ] [CSE373 2012 - Skiena Lecture 24 - NP-Completeness Proofs (video)](https://www.youtube.com/watch?v=27Al52X3hd4&index=24&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+- [ ] [CSE373 2012 - Skiena Lecture 25 - NP-Completeness Challenge (video)](https://www.youtube.com/watch?v=xCPH4gwIIXM&index=25&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+- [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
+- [ ] [Complexity: Approximation Algorithms (video)](https://www.youtube.com/watch?v=MEz1J9wY2iM&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=24)
+- [ ] [Complexity: Fixed-Parameter Algorithms (video)](https://www.youtube.com/watch?v=4q-jmGrmxKs&index=25&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- [ ] [Jupyter Notebook](http://nbviewer.jupyter.org/url/norvig.com/ipython/TSP.ipynb)
+- [ ] [Simonson: Approximation Algorithms (video)](https://www.youtube.com/watch?v=oDniZCmNmNw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=19)
 
-## Endianness
-- [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
-- [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
-- [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
-
-## Bitwise operations
-- [ ] [Bits Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf)
-- [ ] [Words (Computer Architecture)](https://en.wikipedia.org/wiki/Word_(computer_architecture))
-- [ ] [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
-- [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-- [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-- [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
-- [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
-- [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
-- [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
-- [ ] [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
-- [ ] [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
-- [ ] [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-- [ ] [4 Ways To Count Bits In A Byte (video)](https://youtu.be/Hzuzo9NJrlc)
-- [ ] [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
-- [ ] [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-- [ ] [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
-- [ ] [Swap Values](http://bits.stephan-brumme.com/swap.html)
-- [ ] [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+## String Searching & Manipulations
+- [ ] [Search pattern in text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
+- [ ] [Rabin Karps Algorithm (video)](https://www.coursera.org/learn/data-structures/lecture/c0Qkw/rabin-karps-algorithm)
+- [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
+- [ ] [Precomputing (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation)
+- [ ] [Optimization: Implementation and Analysis (Coursera (video))](https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis)
+- [ ] [Pratt Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
+- [ ] [Tutorial: The Knuth-Morris-Pratt (KMP) String Matching Algorithm](https://www.youtube.com/watch?v=2ogqPWJSftE)
+- [ ] [Boyer-Moore String Search Algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
+- [ ] [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://www.youtube.com/watch?v=QDZpzctPf10)
+- [ ] [Coursera: Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/home/week/1)
 
 ## Recursion
 - [ ] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
@@ -340,36 +370,39 @@ ____
 - [ ] [6.046: Dynamic Programming & Advanced DP (video)](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths (video)](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
 - [ ] [6.046: Dynamic Programming (video)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
+- [ ] [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+- [ ] [List of individual Dynamic Programming Problems (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-## Combinatorics & Probability
-- [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
-- [ ] [Make School: Probability (video)](https://www.youtube.com/watch?v=sZkAAk9Wwa4)
-- [ ] [Make School: More Probability and Markov Chains (video)](https://www.youtube.com/watch?v=dNaJg-mLobQ)
-- [ ] [Basic Theoretical Probability (Khan Academy)](https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic)
-- [ ] [Probability Explained (video)](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
-- [ ] [MIT 6.042J - Probability Introduction](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Conditional Probability](https://www.youtube.com/watch?v=E6FbvM-FGZ8&index=19&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Independence](https://www.youtube.com/watch?v=l1BCv3qqW4A&index=20&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Random Variables](https://www.youtube.com/watch?v=MOfhhFaQdjw&list=PLB7540DEDD482705B&index=21)
-- [ ] [MIT 6.042J - Expectation I](https://www.youtube.com/watch?v=gGlMSe7uEkA&index=22&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Expectation II](https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
-- [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
+## Computer Architecture
 
-## NP, NP-Complete & Approximation Algorithms
-- [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
-- [ ] [Greedy Algs. II & Intro to NP Completeness - Simonson (video)](https://youtu.be/qcGnJ47Smlo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=2939)
-- [ ] [NP Completeness II & Reductions - Simonson (video)](https://www.youtube.com/watch?v=e0tGC6ZQdQE&index=16&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
-- [ ] [NP Completeness III - Simonson (video)](https://www.youtube.com/watch?v=fCX1BGT3wjE&index=17&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
-- [ ] [NP Completeness IV - Simonson (video)](https://www.youtube.com/watch?v=NKLDp3Rch3M&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=18)
-- [ ] [CSE373 2012 - Skiena Lecture 23 - Introduction to NP-CompletenessNP Completeness IV (video)](https://youtu.be/KiK5TVgXbFg?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1508)
-- [ ] [CSE373 2012 - Skiena Lecture 24 - NP-Completeness Proofs (video)](https://www.youtube.com/watch?v=27Al52X3hd4&index=24&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-- [ ] [CSE373 2012 - Skiena Lecture 25 - NP-Completeness Challenge (video)](https://www.youtube.com/watch?v=xCPH4gwIIXM&index=25&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-- [ ] [Complexity: P, NP, NP-completeness, Reductions (video)](https://www.youtube.com/watch?v=eHZifpgyH_4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=22)
-- [ ] [Complexity: Approximation Algorithms (video)](https://www.youtube.com/watch?v=MEz1J9wY2iM&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=24)
-- [ ] [Complexity: Fixed-Parameter Algorithms (video)](https://www.youtube.com/watch?v=4q-jmGrmxKs&index=25&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- [ ] [Jupyter Notebook](http://nbviewer.jupyter.org/url/norvig.com/ipython/TSP.ipynb)
-- [ ] [Simonson: Approximation Algorithms (video)](https://www.youtube.com/watch?v=oDniZCmNmNw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=19)
+- [ ] [x86 Architecture, Assembly, Applications (11 videos)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
+- [ ] [UC Berkeley CS 152: Computer Architecture and Engineering (20 videos)](https://www.youtube.com/watch?v=UH0QYvtP7Rk&index=20&list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
+- [ ] [Carnegie Mellon Computer Architecture Spring 2015](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+    - ### Endianness
+        - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
+        - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
+        - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
+
+## Computing
+- ### Bitwise operations
+    - [ ] [Bits Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf)
+    - [ ] [Words (Computer Architecture)](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+    - [ ] [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
+    - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
+    - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+    - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+    - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+    - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
+    - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
+    - [ ] [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
+    - [ ] [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
+    - [ ] [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
+    - [ ] [4 Ways To Count Bits In A Byte (video)](https://youtu.be/Hzuzo9NJrlc)
+    - [ ] [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
+    - [ ] [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
+    - [ ] [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
+    - [ ] [Swap Values](http://bits.stephan-brumme.com/swap.html)
+    - [ ] [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
 ## Compilers
 - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
@@ -538,18 +571,6 @@ ____
 - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 
-## String searching & manipulations
-- [ ] [Search pattern in text (video)](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
-- [ ] [Rabin Karps Algorithm (video)](https://www.coursera.org/learn/data-structures/lecture/c0Qkw/rabin-karps-algorithm)
-- [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=9)
-- [ ] [Precomputing (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation)
-- [ ] [Optimization: Implementation and Analysis (Coursera (video))](https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis)
-- [ ] [Pratt Algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
-- [ ] [Tutorial: The Knuth-Morris-Pratt (KMP) String Matching Algorithm](https://www.youtube.com/watch?v=2ogqPWJSftE)
-- [ ] [Boyer-Moore String Search Algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
-- [ ] [Advanced String Searching Boyer-Moore-Horspool Algorithms (video)](https://www.youtube.com/watch?v=QDZpzctPf10)
-- [ ] [Coursera: Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/home/week/1)
-
 ## Information Theory
 - [ ] [Information Theory - Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/informationtheory)
 - [ ] [Core Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation)
@@ -602,58 +623,41 @@ ____
 - [ ] [MessagePack](http://msgpack.org/index.html)
 - [ ] [Avro](https://avro.apache.org/)
 
-## Fast Fourier Transform
-- [ ] [What is a Fourier transform? What is it used for?](http://www.askamathematician.com/2012/09/q-what-is-a-fourier-transform-what-is-it-used-for/)
-- [ ] [What is the Fourier Transform? (video)](https://www.youtube.com/watch?v=Xxut2PN-V8Q)
-- [ ] [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
-- [ ] [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
-
-## Bloom Filter
-- [ ] [Bloom Filters (video)](https://www.youtube.com/watch?v=-SuTGoFYjZs)
-- [ ] [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://www.youtube.com/watch?v=qBTdukbzc78)
-- [ ] [Bloom Filter Tutorial](http://billmill.org/bloomfilter-tutorial/)
-- [ ] [How To Write A Bloom Filter App](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
-
-## van Emde Boas Trees
-- [ ] [Divide & Conquer: van Emde Boas Trees (video)](https://www.youtube.com/watch?v=hmReJCupbNU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=6)
-- [ ] [MIT Lecture Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture-notes/MIT6_046JS12_lec15.pdf)
-
-## Augmented Data Structures
-- [ ] [CS 61B Lecture 39: Augmenting Data Structures](https://youtu.be/zksIj9O8_jc?list=PL4BBB74C7D2A1049C&t=950)
-
-## Skip lists
-- [ ] [Skip Lists](https://en.wikipedia.org/wiki/Skip_list)
-- [ ] [Randomization: Skip Lists (video)](https://www.youtube.com/watch?v=2g9OSRKJuzM&index=10&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-
-## Disjoint Sets & Union Find
-- [ ] [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
-- [ ] [UCB 61B - Disjoint Sets; Sorting & selection (video)](https://www.youtube.com/watch?v=MAEGXTwmUsI&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=21)
-- Coursera
-    - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
-    - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
-    - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
-    - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
-    - [ ] [Path Compression](https://www.coursera.org/learn/data-structures/lecture/Q9CVI/path-compression)
-    - [ ] [Analysis Options](https://www.coursera.org/learn/data-structures/lecture/GQQLN/analysis-optional)
-
 ## Network Flows
 - [ ] [Ford-Fulkerson in 5 minutes (video)](https://www.youtube.com/watch?v=v1VgJmkEJW0)
 - [ ] [Ford-Fulkerson Algorithm (video)](https://www.youtube.com/watch?v=v1VgJmkEJW0)
 - [ ] [Network Flows (video)](https://www.youtube.com/watch?v=2vhN4Ice5jI)
 
-## Math for Fast Processing
-- [ ] [Integer Arithmetic, Karatsuba Multiplication (video)](https://www.youtube.com/watch?v=eCaXlAaN2uE&index=11&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [ ] [The Chinese Remainder Theorem (Application in Cryptography) (video)](https://www.youtube.com/watch?v=ru7mWZJlRQg)
-
-## Linear Programming
-- [ ] [Linear Programming (video)](https://www.youtube.com/watch?v=M4K6HYLHREQ)
-- [ ] [Finding minimum cost (video)](https://www.youtube.com/watch?v=2ACJ9ewUC6U)
-- [ ] [Finding maximum value (video)](https://www.youtube.com/watch?v=8AA_81xI3ik)
-
-## Geometry, Convex hull
-- [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (videos)](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
-- [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10 (videos)](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
-- [ ] [Divide & Conquer: Convex Hull, Median Finding (videos)](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
+## Mathematics for Computer Science
+- [ ] [MIT 18.06 Linear Algebra, Spring 2005 (35 videos)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+- [ ] [Excellent - MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
+- [ ] [Discrete Mathematics (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [MIT 6.042J: Mathematics for Computer Science, Fall 2010 (25 videos)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
+- ### Combinatorics & Probability
+    - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
+    - [ ] [Make School: Probability (video)](https://www.youtube.com/watch?v=sZkAAk9Wwa4)
+    - [ ] [Make School: More Probability and Markov Chains (video)](https://www.youtube.com/watch?v=dNaJg-mLobQ)
+    - [ ] [Basic Theoretical Probability (Khan Academy)](https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic)
+    - [ ] [Probability Explained (video)](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
+    - [ ] [MIT 6.042J - Probability Introduction](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Conditional Probability](https://www.youtube.com/watch?v=E6FbvM-FGZ8&index=19&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Independence](https://www.youtube.com/watch?v=l1BCv3qqW4A&index=20&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Random Variables](https://www.youtube.com/watch?v=MOfhhFaQdjw&list=PLB7540DEDD482705B&index=21)
+    - [ ] [MIT 6.042J - Expectation I](https://www.youtube.com/watch?v=gGlMSe7uEkA&index=22&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Expectation II](https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
+    - [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
+- ### Math for Fast Processing
+    - [ ] [Integer Arithmetic, Karatsuba Multiplication (video)](https://www.youtube.com/watch?v=eCaXlAaN2uE&index=11&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [ ] [The Chinese Remainder Theorem (Application in Cryptography) (video)](https://www.youtube.com/watch?v=ru7mWZJlRQg)
+- ### Linear Programming
+    - [ ] [Linear Programming (video)](https://www.youtube.com/watch?v=M4K6HYLHREQ)
+    - [ ] [Finding minimum cost (video)](https://www.youtube.com/watch?v=2ACJ9ewUC6U)
+    - [ ] [Finding maximum value (video)](https://www.youtube.com/watch?v=8AA_81xI3ik)
+- ### Geometry, Convex hull
+    - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (videos)](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
+    - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10 (videos)](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
+    - [ ] [Divide & Conquer: Convex Hull, Median Finding (videos)](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
 ## Machine Learning
 - [ ] [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
@@ -685,6 +689,7 @@ ____
     - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
     - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
     - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+    - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 - ### Fun Applications
     - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
     - [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
@@ -715,19 +720,19 @@ ____
     - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
     - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - ### Books
-    - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
-    - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
-    - [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
-    - [GitHub repository](https://github.com/alexsosn/MarslandMLAlgo)
-    - [Resource repository](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
-    - [GitHub repository](https://github.com/amueller/introduction_to_ml_with_python)
+    - [Code for Machine Learning for Hackers - code (github)](https://github.com/johnmyleswhite/ML_for_Hackers)
+    - [Will It Python (github)](https://github.com/carljv/Will_it_Python)
+    - [Python Machine Learning - code (github)](https://github.com/rasbt/python-machine-learning-book)
+    - [Machine Learning: An Algorithm Perspective - code (github)](https://github.com/alexsosn/MarslandMLAlgo)
+    - [Machine Learning - Code & Book Resources](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
+    - [Introduction to Machine Learning with Python - Notebooks and Code (github)](https://github.com/amueller/introduction_to_ml_with_python)
     - [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
     - [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
-    - [GitHub repository](https://github.com/pbharrin/machinelearninginaction)
-    - [GitHub repository](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
+    - [Machine Learning in Action - code (github)](https://github.com/pbharrin/machinelearninginaction)
+    - [Reactive Machine Learning Systems - code (github)](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
     - [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
     - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
-    - [GitHub repository](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+    - [Building Machine Learning Systems with Python - code (github)](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
     - [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
 - ### Knowledge Competitions
     - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
@@ -863,6 +868,7 @@ ____
     - [ ] [Network Security](https://www.youtube.com/watch?v=SIEVvk3NVuk&index=11&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Network Protocols](https://www.youtube.com/watch?v=QOtA76ga_fY&index=12&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Side-Channel Attacks](https://www.youtube.com/watch?v=PuVMkSEcPiI&index=15&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+    - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 - ### Ethical Hacking / Pentesting Tutorials
     - [ ] [Hak Tuts - Site](http://www.Haktuts.com/)
     - [ ] [Hacking Tutorial](http://www.hacking-tutorial.com/#sthash.fBETvrhz.dpbs)
@@ -899,7 +905,9 @@ ____
     - [ ] [Khan Academy Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography)
     - [ ] [Cryptography: Hash Functions (video)](https://www.youtube.com/watch?v=KqqOXndnvic&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=30)
     - [ ] [Cryptography: Encryption (video)](https://www.youtube.com/watch?v=9TNI2wHmaeI&index=31&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-
+    - [ ] [Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k&feature=youtu.be)
+        - [more in series (not in order)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
+    
 ## Papers
 - [ ] [1978: Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
     - [implemented in Go](https://godoc.org/github.com/thomas11/csp)
@@ -930,74 +938,35 @@ ____
 
 - [ ] [Series of 2-5 minutes short subject videos - Michael Sambol (18 videos)](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
-- [ ] [List of individual Dynamic Programming problems (each is short)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-- [ ] [x86 Architecture, Assembly, Applications (11 videos)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
-
-- [ ] [MIT 18.06 Linear Algebra, Spring 2005 (35 videos)](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-
-- [ ] [Excellent - MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
 
 - [ ] [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
-
-- [ ] [Discrete Mathematics (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
-
-- [ ] CSE373 - Analysis of Algorithms (25 videos)
-    - [Skiena lectures from Algorithm Design Manual](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
-
-- [ ] [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://www.youtube.com/watch?v=mFPmKGIrQs4&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-
-- [ ] [UC Berkeley 61B (Fall 2006): Data Structures (39 videos)]( https://www.youtube.com/playlist?list=PL4BBB74C7D2A1049C)
 
 - [ ] [UC Berkeley 61C: Machine Structures (26 videos)](https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 
 - [ ] [OOSE: Software Dev Using UML and Java (21 videos)](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
 
-- [ ] [UC Berkeley CS 152: Computer Architecture and Engineering (20 videos)](https://www.youtube.com/watch?v=UH0QYvtP7Rk&index=20&list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
-
 - [ ] [MIT 6.004: Computation Structures (49 videos)](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
-
-- [ ] [MIT 6.006: Intro to Algorithms (47 videos)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&nohtml5=False)
 
 - [ ] [MIT 6.033: Computer System Engineering (22 videos)](https://www.youtube.com/watch?v=zm2VP0kHl1M&list=PL6535748F59DCA484)
 
 - [ ] [MIT 6.034 Artificial Intelligence, Fall 2010 (30 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
-- [ ] [MIT 6.042J: Mathematics for Computer Science, Fall 2010 (25 videos)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
-
-- [ ] [MIT 6.046: Design and Analysis of Algorithms (34 videos)](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-
 - [ ] [MIT 6.050J: Information and Entropy, Spring 2008 (19 videos)](https://www.youtube.com/watch?v=phxsQrZQupo&list=PL_2Bwul6T-A7OldmhGODImZL8KEVE38X7)
 
-- [ ] [MIT 6.851: Advanced Data Structures (22 videos)](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=1)
 
-- [ ] [MIT 6.854: Advanced Algorithms, Spring 2016 (24 videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
-
-- [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
-
-- [ ] [Carnegie Mellon Computer Architecture Spring 2015](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
 - [ ] Stanford: Programming Paradigms (17 videos)
     - [Course on C and C++](https://www.youtube.com/watch?v=jTSvthW34GU&list=PLC0B8B318B7394B6F&nohtml5=False)
 
-- [ ] [Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k&feature=youtu.be)
-    - [more in series (not in order)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
-
-- [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
-
 ---
 
-## Book Answers
+## Books
 
 - [ ] The Algorithm Design Manual (Skiena)
     - [Answers](http://www.algorithm.cs.sunysb.edu/algowiki/index.php/The_Algorithms_Design_Manual_(Second_Edition))
     - [Answers](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
-
-- [ ] C Programming Language, Vol 2
-    - [answers to questions](https://github.com/lekkas/c-algorithms)
-
-## Book Recommendations
 
 - #### Machine Learning
     - [Data Smart: Using Data Science to Transform Information into Insight 1st Edition](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X)
@@ -1015,56 +984,10 @@ ____
     - [Data Science from Scratch: First Principles with Python (Amazon-link)](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 
 
-## Coding Exercises
-
-- [ ] [Great intro (copied from System Design section): Algorithm design](http://www.hiredintech.com/algorithm-design/)
-- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
-- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
 - [ ] [Mathematics for Topcoders](https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/)
-- [ ] [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-
-  - [LeetCode](https://leetcode.com/)
-  - [TopCoder](https://www.topcoder.com/)
-  - [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
-  - [Codewars](http://www.codewars.com)
-  - [HackerRank](https://www.hackerrank.com/)
-  - [Codility](https://codility.com/programmers/)
-  - [InterviewCake](https://www.interviewcake.com/)
-  - [InterviewBit](https://www.interviewbit.com/invite/icjf)
-
-  - [Exercises for getting better at a given language](http://exercism.io/languages)
 
 ## Language Specific
-
-- ### C
-  - [ ] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-  - [ ] K&R C book (ANSI C)
-  - [ ] [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
-  - [ ] GDB:
-      - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=USPvePv1uzE)
-      - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
-    - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
-
-- ### C++
-  - [ ] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-  - [ ] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-  - [ ] basics
-  - [ ] pointers
-  - [ ] functions
-  - [ ] references
-  - [ ] templates
-  - [ ] compilation
-  - [ ] scope & linkage
-  - [ ] namespaces
-  - [ ] OOP
-  - [ ] STL
-  - [ ] [functors](http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html)
-  - [ ] [C++ at Google (video)](https://www.youtube.com/watch?v=NOCElcMcFik)
-  - [ ] [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-      - Google uses clang-format (there is a command line "style" argument: -style=google)
-  - [ ] [Efficiency with Algorithms, Performance with Data Structures (video)](https://youtu.be/fHNmRkzxHWs)
-  - [ ] [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
-
+- [Exercises for getting better at a given language](http://exercism.io/languages)
 - ### Python
   - [ ] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - [ ] [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
@@ -1075,39 +998,37 @@ ____
   - [ ] [CPython Walk (video)](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6)
   - [ ] [10 Tips for Pythonic Code (video)](https://www.youtube.com/watch?v=_O23jIXsshs)
   - [ ] [Beyond PEP 8 -- Best practices for beautiful intelligible code (video)](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- ### JavaScript
+  - [JavaScript Algorithm Class](https://github.com/akbur/algoClass)
+  - [JavaScript Algorithm Examples](https://github.com/akbur/js-algorithms)
 
-- ### Go
-  - [ ] [Why Learn Go? (video)](https://www.youtube.com/watch?v=FTl0tl9BGdc)
-  - [ ] [Go Programming (video)](https://www.youtube.com/watch?v=CF9S4QZuV30)
-  - [ ] [A Tour of Go (video)](https://www.youtube.com/watch?v=ytEkHepK08c)
-  - [ ] [An Introduction to Programming in Go (Online Book)](https://www.golang-book.com/books/intro)
-  - [ ] [Golang-Book Bootcamp](https://www.golang-book.com/guides/bootcamp)
+## Other Resources
 
-- ### Java
-  - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
-  - [Software Construction In Java (video)](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-  - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
-  - [Algorithms 4th Ed - Algorithm Book In Java](http://algs4.cs.princeton.edu/home/)
+- [ ] [Great intro (copied from System Design section): Algorithm design](http://www.hiredintech.com/algorithm-design/)
+- [ ] [How to Find a Solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+- [ ] [How to Dissect a Topcoder Problem Statement](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/)
 
-## Other
+**Sites for Coding Exercises**
+- [LeetCode](https://leetcode.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [Project Euler (math-focused)](https://projecteuler.net/index.php?section=problems)
+- [Codewars](http://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com/)
+- [Codility](https://codility.com/programmers/)
+- [InterviewCake](https://www.interviewcake.com/)
+- [InterviewBit](https://www.interviewbit.com/invite/icjf)
 
-Placing some links here before sorting to another section
-
-[JavaScript Algorithm Class](https://github.com/akbur/algoClass)
-[JavaScript Algorithm Examples](https://github.com/akbur/js-algorithms)
-
-Add any of these?
-
-http://www.Udemy.com
-http://www.Udacity.com
-https://www.hak5.org
-http://www.teamtreehouse.com
-http://www.TheNewBoston.com
-http://www.codeacademy.com
-http://www.khanacademy.org
-https://www.futurelearn.com/courses/
-http://ocw.mit.edu/index.htm
-http://www.cprogramming.com
-https://code.org/learn
-https://www.tutorialspoint.com/computer_programming
-http://www.infiniteskills.com/programming-training/
+**Sites for Learning**
+- [Udemy](http://www.Udemy.com)
+- [Udacity](http://www.Udacity.com)
+- [hak5](https://www.hak5.org)
+- [TreeHouse](http://www.teamtreehouse.com)
+- [The New Boston](http://www.TheNewBoston.com)
+- [Codecademy](http://www.codeacademy.com)
+- [Khan Academy](http://www.khanacademy.org)
+- [Future Learn Courses](https://www.futurelearn.com/courses/)
+- [MIT Open Courseware](http://ocw.mit.edu/index.htm)
+- [C Programming](http://www.cprogramming.com)
+- [Code.org](https://code.org/learn)
+- [Tutorials Point - Programming](https://www.tutorialspoint.com/computer_programming)
+- [Infinite Skills - Programming](http://www.infiniteskills.com/programming-training/)

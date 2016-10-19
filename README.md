@@ -235,36 +235,29 @@ ____
 - [ ] [Merge Sort](https://www.youtube.com/watch?v=GCae1WNvnZM)
 - [ ] [Quicksort (video)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
 - [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB)
-
 - [ ] [Lecture 15 | Programming Abstractions (video)](https://www.youtube.com/watch?v=ENp00xylP7c&index=15&list=PLFE6E58F856038C69)
 - [ ] [Lecture 16 | Programming Abstractions (video)](https://www.youtube.com/watch?v=y4M9IVgrVKo&index=16&list=PLFE6E58F856038C69)
-
 - [ ] [Shai Simonson, Aduni.org](http://www.aduni.org/):
 - [ ] [Algorithms - Sorting - Lecture 2 (video)](https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=2)
 - [ ] [Algorithms - Sorting II - Lecture 3 (video)](https://www.youtube.com/watch?v=hj8YKFTFKEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=3)
-
 - [ ] [Skiena Sort Lecture (26:46) (video)](https://youtu.be/ute-pmMkyuk?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1600)
 - [ ] [Skiena Sort Lecture (27:40) (video)](https://www.youtube.com/watch?v=yLvp-pB8mak&index=8&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 - [ ] [Skiena Sort Lecture (35:00) (video)](https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 - [ ] [Skiena Sort Lecture (23:50) (video)](https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10)
-
 - [ ] [CS 61B Lecture 29: Sorting I (video)](https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29)
 - [ ] [CS 61B Lecture 30: Sorting II (video)](https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30)
 - [ ] [CS 61B Lecture 32: Sorting III (video)](https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C)
 - [ ] [CS 61B Lecture 33: Sorting V (video)](https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C)
-
 - Stability in Sorting Algorithms
     - [ ] [Sorting Algorithm Stability](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
     - [ ] [Stability In Sorting Algorithms](http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms)
     - [ ] [Stability In Sorting Algorithms](http://www.geeksforgeeks.org/stability-in-sorting-algorithms/)
     - [ ] [Sorting Algorithms - Stability](http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf)
-
 - Implementations:
     - [Merge Sort Using Output Array](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c)
     - [Merge Sort In-Place](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
     - [Quick Sort Code](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c)
     - [Quick Sort Code](https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c)
-
 - [ ] Other
     - [ ] [Merge Sort For Linked List](http://www.geeksforgeeks.org/merge-sort-for-linked-list/)
     - [ ] [Radix Sort](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#radixSort)
@@ -272,27 +265,27 @@ ____
     - [ ] [Radix Sort, Counting Sort (Linear Time Given Constraints) (video)](https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [Randomization: Matrix Multiply, Quicksort, Freivalds' Algorithm (video)](https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - [ ] [Sorting in Linear Time (video)](https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14)
-    
+
 ## Advanced Data Structures & Algorithms
-- ### Fast Fourier Transform
+- Fast Fourier Transform
     - [ ] [What is a Fourier transform? What is it used for?](http://www.askamathematician.com/2012/09/q-what-is-a-fourier-transform-what-is-it-used-for/)
     - [ ] [What is the Fourier Transform? (video)](https://www.youtube.com/watch?v=Xxut2PN-V8Q)
     - [ ] [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
     - [ ] [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
-- ### Bloom Filter
+- Bloom Filter
     - [ ] [Bloom Filters (video)](https://www.youtube.com/watch?v=-SuTGoFYjZs)
     - [ ] [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://www.youtube.com/watch?v=qBTdukbzc78)
     - [ ] [Bloom Filter Tutorial](http://billmill.org/bloomfilter-tutorial/)
     - [ ] [How To Write A Bloom Filter App](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
-- ### van Emde Boas Trees
+- van Emde Boas Trees
     - [ ] [Divide & Conquer: van Emde Boas Trees (video)](https://www.youtube.com/watch?v=hmReJCupbNU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=6)
     - [ ] [MIT Lecture Notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture-notes/MIT6_046JS12_lec15.pdf)
-- ### Augmented Data Structures
+- Augmented Data Structures
     - [ ] [CS 61B Lecture 39: Augmenting Data Structures](https://youtu.be/zksIj9O8_jc?list=PL4BBB74C7D2A1049C&t=950)
-- ### Skip lists
+- Skip lists
     - [ ] [Skip Lists](https://en.wikipedia.org/wiki/Skip_list)
     - [ ] [Randomization: Skip Lists (video)](https://www.youtube.com/watch?v=2g9OSRKJuzM&index=10&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- ### Disjoint Sets & Union Find
+- Disjoint Sets & Union Find
   - [ ] [Disjoint Set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
   - [ ] [UCB 61B - Disjoint Sets; Sorting & selection (video)](https://www.youtube.com/watch?v=MAEGXTwmUsI&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=21)
   - Coursera
@@ -302,7 +295,7 @@ ____
     - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
     - [ ] [Path Compression](https://www.coursera.org/learn/data-structures/lecture/Q9CVI/path-compression)
     - [ ] [Analysis Options](https://www.coursera.org/learn/data-structures/lecture/GQQLN/analysis-optional)
-- ### Video Series
+- Video Series
     - [ ] [Skiena lectures from Algorithm Design Manual](https://www.youtube.com/watch?v=ZFjhkohHdAA&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=1)
     - [ ] [MIT 6.006: Intro to Algorithms (47 videos)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&nohtml5=False)
     - [ ] [MIT 6.851: Advanced Data Structures (22 videos)](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=1)
@@ -378,31 +371,32 @@ ____
 - [ ] [x86 Architecture, Assembly, Applications (11 videos)](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 - [ ] [UC Berkeley CS 152: Computer Architecture and Engineering (20 videos)](https://www.youtube.com/watch?v=UH0QYvtP7Rk&index=20&list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
 - [ ] [Carnegie Mellon Computer Architecture Spring 2015](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
-    - ### Endianness
-        - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
-        - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
-        - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
+- Endianness
+    - [ ] [Big And Little Endian](https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html)
+    - [ ] [Big Endian Vs Little Endian (video)](https://www.youtube.com/watch?v=JrNF0KRAlyo)
+    - [ ] [Big And Little Endian Inside/Out (video)](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
 
 ## Computing
-- ### Bitwise operations
-    - [ ] [Bits Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf)
-    - [ ] [Words (Computer Architecture)](https://en.wikipedia.org/wiki/Word_(computer_architecture))
-    - [ ] [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
-    - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-    - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-    - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
-    - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
-    - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
-    - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
-    - [ ] [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
-    - [ ] [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
-    - [ ] [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-    - [ ] [4 Ways To Count Bits In A Byte (video)](https://youtu.be/Hzuzo9NJrlc)
-    - [ ] [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
-    - [ ] [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-    - [ ] [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
-    - [ ] [Swap Values](http://bits.stephan-brumme.com/swap.html)
-    - [ ] [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+- Bitwise operations
+  - [ ] [Bits Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf)
+  - [ ] [Words (Computer Architecture)](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+  - [ ] [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
+  - [ ] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
+  - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+  - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+  - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
+  - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
+  - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
+  - [ ] [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
+  - [ ] [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
+  - [ ] [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
+  - [ ] [4 Ways To Count Bits In A Byte (video)](https://youtu.be/Hzuzo9NJrlc)
+  - [ ] [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
+  - [ ] [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
+  - [ ] [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
+  - [ ] [Swap Values](http://bits.stephan-brumme.com/swap.html)
+  - [ ] [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+- [ ] [MIT 6.004: Computation Structures (49 videos)](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 
 ## Compilers
 - [ ] [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
@@ -633,7 +627,7 @@ ____
 - [ ] [Excellent - MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A)
 - [ ] [Discrete Mathematics (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
 - [ ] [MIT 6.042J: Mathematics for Computer Science, Fall 2010 (25 videos)](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
-- ### Combinatorics & Probability
+- Combinatorics & Probability
     - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
     - [ ] [Make School: Probability (video)](https://www.youtube.com/watch?v=sZkAAk9Wwa4)
     - [ ] [Make School: More Probability and Markov Chains (video)](https://www.youtube.com/watch?v=dNaJg-mLobQ)
@@ -647,14 +641,14 @@ ____
     - [ ] [MIT 6.042J - Expectation II](https://www.youtube.com/watch?v=oI9fMUqgfxY&index=23&list=PLB7540DEDD482705B)
     - [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
     - [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
-- ### Math for Fast Processing
+- Math for Fast Processing
     - [ ] [Integer Arithmetic, Karatsuba Multiplication (video)](https://www.youtube.com/watch?v=eCaXlAaN2uE&index=11&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [The Chinese Remainder Theorem (Application in Cryptography) (video)](https://www.youtube.com/watch?v=ru7mWZJlRQg)
-- ### Linear Programming
+- Linear Programming
     - [ ] [Linear Programming (video)](https://www.youtube.com/watch?v=M4K6HYLHREQ)
     - [ ] [Finding minimum cost (video)](https://www.youtube.com/watch?v=2ACJ9ewUC6U)
     - [ ] [Finding maximum value (video)](https://www.youtube.com/watch?v=8AA_81xI3ik)
-- ### Geometry, Convex hull
+- Geometry, Convex hull
     - [ ] [Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (videos)](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
     - [ ] [Geometric Algorithms: Graham & Jarvis - Lecture 10 (videos)](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
     - [ ] [Divide & Conquer: Convex Hull, Median Finding (videos)](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
@@ -677,32 +671,32 @@ ____
 - [ ] [Practical Guide to implementing Neural Networks in Python](using Theano)])http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
 - [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
 - [Data School](http://www.dataschool.io/)
-- ### Overview
+- Overview
     - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
     - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
     - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
     - [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
     - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
-- ### Mastery
+- Mastery
     - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
     - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
     - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
     - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
     - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
     - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
-- ### Fun Applications
+- Fun Applications
     - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
     - [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
     - [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
     - [ ] [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
     - [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
-- ### In-Depth, Non-Technical
+- In-Depth, Non-Technical
     - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
     - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
     - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
     - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
     - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
-- ### Stories & Experiences
+- Stories & Experiences
     - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
     - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
     - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
@@ -714,12 +708,12 @@ ____
     - [ ] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
     - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
     - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
-- ### Algorithms
+- Algorithms
     - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
     - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
     - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
     - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-- ### Books
+- Books
     - [Code for Machine Learning for Hackers - code (github)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [Will It Python (github)](https://github.com/carljv/Will_it_Python)
     - [Python Machine Learning - code (github)](https://github.com/rasbt/python-machine-learning-book)
@@ -734,11 +728,11 @@ ____
     - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
     - [Building Machine Learning Systems with Python - code (github)](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
     - [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
-- ### Knowledge Competitions
+- Knowledge Competitions
     - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
     - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
     - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
-- ### Video Series
+- Video Series
     - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
     - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
     - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
@@ -747,7 +741,7 @@ ____
     - [ ] BigML Webinar
     	- [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
     	- [Resources](https://bigml.com/releases)
-- ### MOOC
+- MOOC
     - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
         - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
     - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
@@ -760,7 +754,7 @@ ____
     - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
         - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
     - [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- ### Resources
+- Resources
     - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
     - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
     - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
@@ -785,12 +779,12 @@ ____
     		- [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
     	- Algorithms
     		- [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
-- ### Open Source
+- Open Source
     - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
     - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
     - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
     - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
-- ### Podcasts
+- Podcasts
     - [Talking Machines](http://www.thetalkingmachines.com/)
     - [Linear Digressions](http://lineardigressions.com/)
     - [Data Skeptic](http://dataskeptic.com/)
@@ -799,7 +793,7 @@ ____
     - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
     - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
     - [Data Stories](http://datastori.es/)
-- ### Communities
+- Communities
     - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
     - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
     - [Data Mining](https://www.quora.com/topic/Data-Mining)
@@ -814,7 +808,7 @@ ____
     - [KDnuggets](http://www.kdnuggets.com/)
 
 ## Information Security
-- ### Unix Tutorials
+- Unix Tutorials
     - [ ] [Conquering the Command Line (book - read online)](http://conqueringthecommandline.com/book/frontmatter)
     - [ ] [Unix Power Tools (book - read online)](http://docstore.mik.ua/orelly/unix3/upt/)
     - [ ] [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html#Simple-Commands)
@@ -836,7 +830,7 @@ ____
     - [ ] [Steve Parker](http://steve-parker.org/sh/sh.shtml)
     - [ ] [Lion's Wing - Linux Lessons](http://www.lions-wing.net/lessons/index.html)
     - [ ] [Linux Survival](http://www.linuxsurvival.com )
-- ### Networking
+- Networking
     - [ ] [Internet Intro - Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/internet-intro)
     - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://www.youtube.com/watch?v=Vdc8TCESIg8)
     - [ ] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
@@ -854,7 +848,7 @@ ____
     - [ ] [Learners TV CS Lectures (video)](http://www.learnerstv.com/Free-Computer-Science-Video-lectures-ltv578-Page1.htm)
     - [ ] [Eli The Computer Guy (Youtube Channel)](https://www.youtube.com/user/elithecomputerguy)
     - [ ] [Networking (video)](https://www.youtube.com/watch?v=d4_7dUFl4v0&amp;list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
-- ### Computer Security
+- Computer Security
     - [MIT (23 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Control Hijacking Attacks](https://www.youtube.com/watch?v=6bwzNg5qQ0o&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh&index=2)
@@ -869,7 +863,7 @@ ____
     - [ ] [Network Protocols](https://www.youtube.com/watch?v=QOtA76ga_fY&index=12&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Side-Channel Attacks](https://www.youtube.com/watch?v=PuVMkSEcPiI&index=15&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
-- ### Ethical Hacking / Pentesting Tutorials
+- Ethical Hacking / Pentesting Tutorials
     - [ ] [Hak Tuts - Site](http://www.Haktuts.com/)
     - [ ] [Hacking Tutorial](http://www.hacking-tutorial.com/#sthash.fBETvrhz.dpbs)
     - [ ] [Ethical Hacking Tutorials](http://www.guru99.com/ethical-hacking-tutorials.html)
@@ -886,7 +880,7 @@ ____
     - [ ] [We Chall - Site](http://www.wechall.net/)
     - [ ] [Hack This - Site](http://hackthis.co.uk)
     - [ ] [Pentester Lab - Site](https://pentesterlab.com/)
-- ### Emacs and vi(m)
+- Emacs and vi(m)
     - [ ] [vi(m) (video)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
     - [ ] [The vi/vim editor - Lesson 1 (video)](https://www.youtube.com/watch?v=SI8TeVMX8pk)
     - [ ] [The vi/vim editor - Lesson 2 (video)](https://www.youtube.com/watch?v=F3OO7ZIOaJE)
@@ -901,7 +895,7 @@ ____
     - [ ] [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
     - [ ] [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
     - [ ] [Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
-- ### Cryptography
+- Cryptography
     - [ ] [Khan Academy Cryptography Series](https://www.khanacademy.org/computing/computer-science/cryptography)
     - [ ] [Cryptography: Hash Functions (video)](https://www.youtube.com/watch?v=KqqOXndnvic&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=30)
     - [ ] [Cryptography: Encryption (video)](https://www.youtube.com/watch?v=9TNI2wHmaeI&index=31&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
@@ -938,23 +932,17 @@ ____
 
 - [ ] [Series of 2-5 minutes short subject videos - Michael Sambol (18 videos)](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 
-
-
 - [ ] [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
 - [ ] [UC Berkeley 61C: Machine Structures (26 videos)](https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 
 - [ ] [OOSE: Software Dev Using UML and Java (21 videos)](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
 
-- [ ] [MIT 6.004: Computation Structures (49 videos)](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
-
 - [ ] [MIT 6.033: Computer System Engineering (22 videos)](https://www.youtube.com/watch?v=zm2VP0kHl1M&list=PL6535748F59DCA484)
 
 - [ ] [MIT 6.034 Artificial Intelligence, Fall 2010 (30 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
 - [ ] [MIT 6.050J: Information and Entropy, Spring 2008 (19 videos)](https://www.youtube.com/watch?v=phxsQrZQupo&list=PL_2Bwul6T-A7OldmhGODImZL8KEVE38X7)
-
-
 
 - [ ] Stanford: Programming Paradigms (17 videos)
     - [Course on C and C++](https://www.youtube.com/watch?v=jTSvthW34GU&list=PLC0B8B318B7394B6F&nohtml5=False)

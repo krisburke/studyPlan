@@ -662,7 +662,7 @@ ____
 - [ ] [Machine Learning Engineer Nanodegree (Udacity)](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
 - [ ] [Self-Driving Car Engineer Nanodegree (Udacity)](https://www.udacity.com/drive)
 - [ ] [Metis Data Science ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
-- [ ] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
+- [x] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
 - [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
 - [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig (video)](https://www.youtube.com/watch?v=X769cyzBNVw)
 - [ ] [Google's Cloud Machine Learning Tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
@@ -673,10 +673,10 @@ ____
 - [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
 - [Data School](http://www.dataschool.io/)
 - Overview
-    - [ ] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-    - [ ] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
-    - [ ] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
-    - [ ] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+    - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+    - [x] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+    - [ ] [Machine Learning Basics For a Newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+    - [x] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
     - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - Mastery
     - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)

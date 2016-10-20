@@ -567,24 +567,24 @@ ____
 - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 
 ## Information Theory
-- [ ] [Information Theory - Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/informationtheory)
-- [ ] [Core Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation)
-- [ ] [Core Implementing Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/gZhiC/core-implementing-markov-text-generation)
-- [ ] [Project = Markov Text Generation Walk Through (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/EUjrq/project-markov-text-generation-walk-through)
+- [x] [Information Theory - Khan Academy Course (videos)](https://www.khanacademy.org/computing/computer-science/informationtheory)
+- [x] [Core Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation)
+- [x] [Core Implementing Markov Text Generation (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/gZhiC/core-implementing-markov-text-generation)
+- [x] [Project = Markov Text Generation Walk Through (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/EUjrq/project-markov-text-generation-walk-through)
 
 ## Parity & Hamming Code
-- [ ] [Intro (video)](https://www.youtube.com/watch?v=q-3BctoUpHE)
-- [ ] [Parity (video)](https://www.youtube.com/watch?v=DdMcAUlxh1M)
-- [ ] [Error detection (video)](https://www.youtube.com/watch?v=1A_NcXxdoCc)
+- [x] [Intro to Parity(video)](https://www.youtube.com/watch?v=q-3BctoUpHE)
+- [x] [Parity (video)](https://www.youtube.com/watch?v=DdMcAUlxh1M)
+- [ ] [7-bit Hamming Code for Error Detection (video)](https://www.youtube.com/watch?v=1A_NcXxdoCc)
 - [ ] [Error correction (video)](https://www.youtube.com/watch?v=JAMLuxdHH8o)
 - [ ] [Error Checking (video)](https://www.youtube.com/watch?v=wbH2VxzmoZk)
 
 ## Entropy
-- [ ] [Information Theory, Claude Shannon, Entropy, Redundancy, Data Compression & Bits (video)](https://youtu.be/JnJq3Py0dyM?t=176)
+- [x] [Information Theory, Claude Shannon, Entropy, Redundancy, Data Compression & Bits (video)](https://youtu.be/JnJq3Py0dyM?t=176)
 
 ## Compression
-- [ ] [Compression (video)](https://www.youtube.com/watch?v=Lto-ajuqW3w)
-- [ ] [Entropy in Compression (video)](https://www.youtube.com/watch?v=M5c_RFKVkko)
+- [x] [Compression (video)](https://www.youtube.com/watch?v=Lto-ajuqW3w)
+- [x] [Entropy in Compression (video)](https://www.youtube.com/watch?v=M5c_RFKVkko)
 - [ ] [Upside Down Trees (Huffman Trees) (video)](https://www.youtube.com/watch?v=umTbivyJoiI)
 - [ ] [EXTRA BITS/TRITS - Huffman Trees (video)](https://www.youtube.com/watch?v=DV8efuB3h2g)
 - [ ] [Elegant Compression in Text (The LZ 77 Method) (video)](https://www.youtube.com/watch?v=goOa3DGezUA)
@@ -679,7 +679,7 @@ ____
     - [x] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
     - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 - Mastery
-    - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
+    - [x] [The Machine Learning Mastery Method - Guide](http://machinelearningmastery.com/machine-learning-mastery-method/)
     - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
     - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
     - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
@@ -832,7 +832,7 @@ ____
     - [ ] [Lion's Wing - Linux Lessons](http://www.lions-wing.net/lessons/index.html)
     - [ ] [Linux Survival](http://www.linuxsurvival.com )
 - Networking
-    - [ ] [Internet Intro - Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/internet-intro)
+    - [x] [Internet Intro - Khan Academy (video)](https://www.khanacademy.org/computing/computer-science/internet-intro)
     - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://www.youtube.com/watch?v=Vdc8TCESIg8)
     - [ ] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
     - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://www.youtube.com/watch?v=nomyRJehhnM)
@@ -851,7 +851,7 @@ ____
     - [ ] [Networking (video)](https://www.youtube.com/watch?v=d4_7dUFl4v0&amp;list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
 - Computer Security
     - [MIT (23 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
-    - [ ] [Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
+    - [x] [Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
     - [ ] [Control Hijacking Attacks](https://www.youtube.com/watch?v=6bwzNg5qQ0o&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh&index=2)
     - [ ] [Buffer Overflow Exploits and Defenses](https://www.youtube.com/watch?v=drQyrzRoRiA&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh&index=3)
     - [ ] [Privilege Separation](https://www.youtube.com/watch?v=6SIJmoE9L9g&index=4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
@@ -881,6 +881,7 @@ ____
     - [ ] [We Chall - Site](http://www.wechall.net/)
     - [ ] [Hack This - Site](http://hackthis.co.uk)
     - [ ] [Pentester Lab - Site](https://pentesterlab.com/)
+    - [ ] [Khan Academy Cyber Security](https://www.khanacademy.org/partner-content/nova/cybersecurity/cyber/v/cybersecurity-101)
 - Emacs and vi(m)
     - [ ] [vi(m) (video)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
     - [ ] [The vi/vim editor - Lesson 1 (video)](https://www.youtube.com/watch?v=SI8TeVMX8pk)

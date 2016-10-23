@@ -1,14 +1,8 @@
 ## Study Plan
 
-This list started as a fork of [Google Interview University](https://github.com/jwasham/google-interview-university). I have modified the resources and topics to fit my own personal study goals. Still in progress...
+This list is a work in progress...
 
-#### Links
-[**My Blog**](http://www.krisburke.me)
-
-* [JavaScript Code](https://github.com/akbur/dsa-js)
-* [Python Code](https://github.com/akbur/dsa-py)
-
-### What I'm Currently Working On
+Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university) and also including resources from [Machine Learning For Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 ### All Topics
 

@@ -1,7 +1,6 @@
 # Computer Systems: A Programmer's Perspective
 
-Book Details Here ...
-
+![](../img/csapp2e.jpeg?raw=true)
 ____
 
 ## Table of Contents Progress Checklist

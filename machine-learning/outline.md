@@ -20,7 +20,7 @@
 - [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
 - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
-- [ ] [Practical Guide to implementing Neural Networks in Python](using Theano)])http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+- [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
 - [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
 -   [Data School](http://www.dataschool.io/)
 -   Overview

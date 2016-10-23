@@ -1,6 +1,6 @@
 # Essential System Administration, 3rd Edition: Tools and Techniques for Linux and Unix Administration
 
-![](../img/ess-sysadmin.jpeg?raw=true)
+![](./img/ess-sysadmin.jpeg?raw=true)
 ____
 
 ## Table of Contents Progress Checklist

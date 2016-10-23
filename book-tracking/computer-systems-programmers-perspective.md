@@ -1,6 +1,6 @@
 # Computer Systems: A Programmer's Perspective
 
-![](../img/csapp2e.jpeg?raw=true)
+![](./img/csapp2e.jpeg?raw=true)
 ____
 
 ## Table of Contents Progress Checklist

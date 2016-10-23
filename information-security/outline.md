@@ -11,8 +11,7 @@ ____
 ## Unix & Linux
 
 #### Books
-- [Essential System Administration, 3rd Edition
-Tools and Techniques for Linux and Unix Administration](https://github.com/akbur/studyPlan/blob/master/information-security/essential-sysadmin.md)
+- [Essential System Administration, 3rd Edition Tools and Techniques for Linux and Unix Administration](https://github.com/akbur/studyPlan/blob/master/book-tracking/essential-sysadmin.md)
 - [Conquering the Command Line (Ebook)](http://conqueringthecommandline.com/book/frontmatter)
 - [Unix Power Tools (Ebook)](http://docstore.mik.ua/orelly/unix3/upt/)
 

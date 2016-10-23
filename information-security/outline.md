@@ -8,15 +8,16 @@
 
 ## Other Resources
 
-[Unix/Linux](#unix-linux)
-[Computer Networking](#computer-networking)
-[Security](#security)
-[Ethical Hacking](#ethical-hacking)
-[Cryptography](#cryptography)
-[Emacs & Vi](#emacs--vi)
+* [Unix & Linux](#unix--linux)
+* [Computer Networking](#computer-networking)
+* [Security](#security)
+* [Ethical Hacking](#ethical-hacking)
+* [Cryptography](#cryptography)
+* [Emacs & Vi](#emacs--vi)
+
 ____
 
-### Unix/Linux
+### Unix & Linux
 - [ ] [Conquering the Command Line (book - read online)](http://conqueringthecommandline.com/book/frontmatter)
 - [ ] [Unix Power Tools (book - read online)](http://docstore.mik.ua/orelly/unix3/upt/)
 - [ ] [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html#Simple-Commands)
@@ -76,7 +77,7 @@ ____
 - [ ] [Side-Channel Attacks](https://www.youtube.com/watch?v=PuVMkSEcPiI&index=15&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-### Ethical Hacking / Pentesting Tutorials
+### Ethical Hacking
 - [ ] [Hak Tuts - Site](http://www.Haktuts.com/)
 - [ ] [Hacking Tutorial](http://www.hacking-tutorial.com/#sthash.fBETvrhz.dpbs)
 - [ ] [Ethical Hacking Tutorials](http://www.guru99.com/ethical-hacking-tutorials.html)

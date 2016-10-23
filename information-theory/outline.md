@@ -8,10 +8,10 @@
 
 ## Other Resources
 
-[Markov Chain](#markov-chain)
-[Parity & Hamming Code](#parity--hamming-code)
-[Entropy](#entropy)
-[Compression](#compression)
+* [Markov Chain](#markov-chain)
+* [Parity & Hamming Code](#parity--hamming-code)
+* [Entropy](#entropy)
+* [Compression](#compression)
 
 ____
 

@@ -1,0 +1,160 @@
+# Machine Learning
+
+## Books
+
+## Courses
+
+## Other Resources
+
+- [ ] [Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)
+    - [Videos Only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+- [ ] [Neural Networks for Machine Learning (Coursera)](https://www.coursera.org/learn/neural-networks)
+- [ ] [Deep Learning Nanodegree (Udacity)](https://www.udacity.com/course/deep-learning--ud730)
+- [ ] [Machine Learning Engineer Nanodegree (Udacity)](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+- [ ] [Self-Driving Car Engineer Nanodegree (Udacity)](https://www.udacity.com/drive)
+- [ ] [Metis Data Science ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
+- [x] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
+- [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
+- [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig (video)](https://www.youtube.com/watch?v=X769cyzBNVw)
+- [ ] [Google's Cloud Machine Learning Tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
+- [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
+- [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+- [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+- [ ] [Vector calculus](https://www.youtube.com/watch?v=tDtYAddb4o4)
+-   [Data School](http://www.dataschool.io/)
+-   Overview
+    - [x] [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+    - [x] [A Gentle Guide to Machine Learning](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+    - [ ] [Machine Learning Basics For a Newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
+    - [x] [How do you explain Machine Learning and Data Mining to non Computer Science people?](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
+    - [ ] [Machine Learning: Under the hood. Blog post explains the principles of machine learning in layman terms. Simple and clear](https://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
+-   Mastery
+    - [x] [The Machine Learning Mastery Method - Guide](http://machinelearningmastery.com/machine-learning-mastery-method/)
+    - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
+    - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
+    - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
+    - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+    - [ ] [Mining Massive Datasets - Stanford University (94 videos)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+-   Fun Applications
+    - [ ] [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+    - [ ] [Part 2: Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+    - [ ] [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+    - [ ] [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
+    - [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
+-   In-Depth, Non-Technical
+    - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+    - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
+    - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
+    - [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
+    - [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
+-   Stories & Experiences
+    - [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+    - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
+    - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
+    - [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
+    - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
+        - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
+        - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
+    - [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+    - [ ] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
+    - [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
+    - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
+-   Algorithms
+    - [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
+    - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+    - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
+    - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+-   Books
+    - [Code for Machine Learning for Hackers - code (github)](https://github.com/johnmyleswhite/ML_for_Hackers)
+    - [Will It Python (github)](https://github.com/carljv/Will_it_Python)
+    - [Python Machine Learning - code (github)](https://github.com/rasbt/python-machine-learning-book)
+    - [Machine Learning: An Algorithm Perspective - code (github)](https://github.com/alexsosn/MarslandMLAlgo)
+    - [Machine Learning - Code & Book Resources](http://seat.massey.ac.nz/personal/s.r.marsland/MLbook.html)
+    - [Introduction to Machine Learning with Python - Notebooks and Code (github)](https://github.com/amueller/introduction_to_ml_with_python)
+    - [Slides for Chapters 1-5 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch1-5.zip)
+    - [Slides for Chapters 6-8 (zip)](http://www.cs.waikato.ac.nz/ml/weka/Slides3rdEd_Ch6-8.zip)
+    - [Machine Learning in Action - code (github)](https://github.com/pbharrin/machinelearninginaction)
+    - [Reactive Machine Learning Systems - code (github)](https://github.com/jeffreyksmithjr/reactive-machine-learning-systems)
+    - [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python)
+    - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+    - [Building Machine Learning Systems with Python - code (github)](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+    - [Reactive Machine Learning Systems(MEAP)](https://www.manning.com/books/reactive-machine-learning-systems)
+-   Knowledge Competitions
+    - [ ] [Kaggle Competitions: How and where to begin?](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
+    - [ ] [How a Beginner Used Small Projects To Get Started in Machine Learning and Compete on Kaggle](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
+    - [ ] [Master Kaggle By Competing Consistently](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
+-   Video Series
+    - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
+    - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
+    - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+    - [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
+    - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+    - [ ] BigML Webinar
+          - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
+          - [Resources](https://bigml.com/releases)
+-   MOOC
+    - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+        - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
+    - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
+    - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
+    - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
+        - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+        - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
+        - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
+    - [ ] [BigML training](https://bigml.com/training)
+    - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+        - Taught by Geoffrey Hinton, a pioneer in the field of neural networks
+    - [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+-   Resources
+    - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
+    - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
+    - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
+    - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
+    - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
+    - [ ] Enough Machine Learning to Make Hacker News Readable Again
+          - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
+          - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
+    - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+    - Flipboard Topics
+      - [Machine learning](https://flipboard.com/topic/machinelearning)
+      - [Deep learning](https://flipboard.com/topic/deeplearning)
+      - [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
+    - Medium Topics
+      - [Machine learning](https://medium.com/tag/machine-learning/latest)
+      - [Deep learning](https://medium.com/tag/deep-learning)
+      - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
+    - Monthly top 10 articles
+      - Machine Learning
+        - [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
+        - [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
+        - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
+      - Algorithms
+        - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
+-   Open Source
+    - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
+    - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+    - [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
+    - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
+-   Podcasts
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+    - [Data Stories](http://datastori.es/)
+-   Communities
+    - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
+    - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
+    - [Data Mining](https://www.quora.com/topic/Data-Mining)
+    - [Machine Learning](https://www.reddit.com/r/machinelearning)
+    - [Computer Vision](https://www.reddit.com/r/computervision)
+    - [Natural Language](https://www.reddit.com/r/languagetechnology)
+    - [Data Science](https://www.reddit.com/r/datascience)
+    - [Big Data](https://www.reddit.com/r/bigdata)
+    - [Statistics](https://www.reddit.com/r/statistics)
+    - [Data Tau](http://www.datatau.com/)
+    - [Deep Learning News](http://news.startup.ml/)
+    - [KDnuggets](http://www.kdnuggets.com/)

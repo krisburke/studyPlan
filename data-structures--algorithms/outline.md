@@ -29,25 +29,25 @@ ____
     - [ ] [Phone Book Problem](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
     - [ ] [Instant Uploads And Storage Optimization In Dropbox](https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox)
     - [ ] [Distributed Hash Tables](https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables)
-    - [x] [Series: Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
-    - [x] [Tree Traversal (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/fr51b/tree-traversal)
-    - [ ] [Introduction (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    - [x] [Introduction to Priority Queues (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
-    - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
-    - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
-    - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
-    - [ ] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
-    - [ ] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
-    - [ ] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
-    - [ ] [Heap Sort (video)](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
-    - [ ] [Building a heap (video)](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
-    - [ ] [AVL Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees)
-    - [ ] [AVL Tree Implementation (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation)
-    - [ ] [Split and Merge (Coursera) (video)](https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge)
+    - [x] [Series: Trees](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [x] [Tree Traversal](https://www.coursera.org/learn/data-structures/lecture/fr51b/tree-traversal)
+    - [ ] [Introduction](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+    - [x] [Introduction to Priority Queues](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
+    - [ ] [Naive Implementations](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
+    - [ ] [Binary Trees](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
+    - [ ] [Tree Height Remark](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
+    - [ ] [Basic Operations](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
+    - [ ] [Complete Binary Trees](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
+    - [ ] [Pseudocode](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
+    - [ ] [Heap Sort](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
+    - [ ] [Building a heap](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
+    - [ ] [AVL Trees](https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees)
+    - [ ] [AVL Tree Implementation](https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation)
+    - [ ] [Split and Merge](https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge)
     - [ ] [Search pattern in text](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
     - [ ] [Rabin Karps Algorithm](https://www.coursera.org/learn/data-structures/lecture/c0Qkw/rabin-karps-algorithm)
-    - [ ] [Precomputing (Coursera)](https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation)
-    - [ ] [Optimization: Implementation and Analysis (Coursera)](https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis)
+    - [ ] [Precomputing](https://www.coursera.org/learn/data-structures/lecture/nYrc8/optimization-precomputation)
+    - [ ] [Optimization: Implementation and Analysis](https://www.coursera.org/learn/data-structures/lecture/h4ZLc/optimization-implementation-and-analysis)
     - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
     - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
     - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
@@ -59,11 +59,11 @@ ____
     - [ ] [Core: Linked Lists Vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
     - [ ] [In The Real World: Linked Lists Vs Arrays](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
     - [ ] [Core Hash Tables](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
-    - [ ] [Series: Core Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
-    - [ ] [Series : Binary Search Trees (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
-    - [ ] [Introduction To Tries (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
-    - [ ] [Performance Of Tries (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
-    - [ ] [Implementing A Trie (Coursera) (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie)
+    - [ ] [Series: Core Trees](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
+    - [ ] [Series : Binary Search Trees](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
+    - [ ] [Introduction To Tries](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
+    - [ ] [Performance Of Tries](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
+    - [ ] [Implementing A Trie](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie)
 
 
 - [Developer Programming Foundations - Lynda](https://www.lynda.com/Programming-Foundations-training-tutorials/1351-0.html)
@@ -112,7 +112,6 @@ ____
 #### Other
 - [ ] [Big O Cheat Sheet](http://bigocheatsheet.com/)
 
-
 ## Data Structures
 
 ### Linked List
@@ -126,18 +125,18 @@ ____
 
 ### Hash Table
 #### Videos
-- [ ] [Hashing with Chaining ](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
-- [ ] [Table Doubling, Karp-Rabin ](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [ ] [Open Addressing, Cryptographic Hashing ](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [ ] [PyCon 2010: The Mighty Dictionary ](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+- [ ] [Hashing with Chaining](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
+- [ ] [Table Doubling, Karp-Rabin](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [ ] [Open Addressing, Cryptographic Hashing](https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [ ] [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
 - [ ] [(Advanced) Randomization: Universal & Perfect Hashing ](https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11)
-- [ ] [(Advanced) Perfect hashing ](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
+- [ ] [(Advanced) Perfect hashing](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
 
 ### Tree
 #### Videos
 
-- [ ] [Breadth First Search - MIT ](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-- [ ] [Depth First Search - MIT ](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
+- [ ] [Breadth First Search - MIT](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+- [ ] [Depth First Search - MIT](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 - **Binary search trees: BSTs**
     - [ ] [Binary Search Tree Review](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [Binary Search Trees - MIT](https://www.youtube.com/watch?v=9Jry5-82I68)
@@ -157,8 +156,7 @@ ____
     - [ ] [CS 61B Lecture 24: Priority Queues](https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C)
     - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
 - **Tries**
-    - [ ] [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries)
-    - [ ] [Stanford Lecture (real world use case) (video)](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
+    - [ ] [Stanford Lecture (real world use case)](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
     - [ ] [MIT, Advanced Data Structures, Strings](https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 - **Balanced Search trees**
     - [ ] [MIT AVL Trees / AVL Sort](https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6)
@@ -181,6 +179,7 @@ ____
 
 #### Articles
 - [ ] [The Trie: A Neglected Data Structure](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
+- [ ] [Notes on Data Structures and Programming Techniques - Tries](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries)
 - [ ] [TopCoder - Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
 - [ ] [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
 - [ ] [B-Tree](https://en.wikipedia.org/wiki/B-tree)
@@ -190,7 +189,6 @@ ____
 - [ ] [Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 - [ ] [Applications in Set Operations](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
 - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
-
 
 ### Graph
 #### Videos

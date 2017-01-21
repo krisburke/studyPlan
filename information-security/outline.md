@@ -125,7 +125,7 @@ ____
 - [ ] [Org Mode In Depth: Managing Structure](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 #### Guides
-- [ ] [Using Vi Instead of Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Using_Vi_instead_of_Emacs)
+- [x] [Using Vi Instead of Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Using_Vi_instead_of_Emacs)
 - [ ] [Open Vim](http://www.openvim.com)
 - [ ] [Basics Emacs Tutorial](https://www.youtube.com/watch?v=hbmV1bnQ-i0)
 - [ ] [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)

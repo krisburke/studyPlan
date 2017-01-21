@@ -5,66 +5,66 @@ ____
 
 ## Table of Contents Progress Checklist
 
-### A Tour of Computer Systems
-- [ ] **1.1** Information Is Bits + Context
-- [ ] **1.2** Programs Are Translated by Other Programs in Different Forms
-- [ ] **1.3** It Pays to Understand How Compilation Systems Work
-- [ ] **1.4** Processors Read and Interpret Instructions Stored  Memory
-- [ ] **1.4.1** Hardware Organization of a System
-- [ ] **1.4.2** Running the hello Program
-- [ ] **1.5** Caches Matter
-- [ ] **1.6** Storage Devices Form a Hierarchy
-- [ ] **1.7** The Operating System Manages the Hardware
-- [ ] **1.7.1** Processes
-- [ ] **1.7.2** Threads
-- [ ] **1.7.3** Virtual Memory
-- [ ] **1.7.4** Files
-- [ ] **1.8** Systems Communicate with Other Systems Using Networks
-- [ ] **1.9** Important Themes
-- [ ] **1.9.1** Concurrency and Parallelism
-- [ ] **1.9.2** The Importance of Abstractions in Computer Systems
-- [ ] **1.10** Summary
+### Chapter 1: A Tour of Computer Systems
+- [x] **1.1** Information Is Bits + Context
+- [x] **1.2** Programs Are Translated by Other Programs in Different Forms
+- [x] **1.3** It Pays to Understand How Compilation Systems Work
+- [x] **1.4** Processors Read and Interpret Instructions Stored  Memory
+    - [x] **1.4.1** Hardware Organization of a System
+    - [x] **1.4.2** Running the hello Program
+- [x] **1.5** Caches Matter
+- [x] **1.6** Storage Devices Form a Hierarchy
+- [x] **1.7** The Operating System Manages the Hardware
+    - [x] **1.7.1** Processes
+    - [x] **1.7.2** Threads
+    - [x] **1.7.3** Virtual Memory
+    - [x] **1.7.4** Files
+- [x] **1.8** Systems Communicate with Other Systems Using Networks
+- [x] **1.9** Important Themes
+    - [x] **1.9.1** Concurrency and Parallelism
+    - [x] **1.9.2** The Importance of Abstractions in Computer Systems
+- [x] **1.10** Summary
 
 ### Part I Program Structure and Execution
-### Representing and Manipulating Information
-- [ ] **2.1** Information Storage
-- [ ] **2.1.1** Hexadecimal Notation
-- [ ] **2.1.2** Words
-- [ ] **2.1.3** Data Sizes
-- [ ] **2.1.4** Addressing and Byte Ordering
-- [ ] **2.1.5** Representing Strings
-- [ ] **2.1.6** Representing Code
-- [ ] **2.1.7** Introduction to Boolean Algebra
-- [ ] **2.1.8** Bit-Level Operations in C
-- [ ] **2.1.9** Logical Operations in C
-- [ ] **2.1.10** Shift Operations in C
+### Chapter 2: Representing and Manipulating Information
+- [x] **2.1** Information Storage
+    - [x] **2.1.1** Hexadecimal Notation
+    - [x] **2.1.2** Words
+    - [x] **2.1.3** Data Sizes
+    - [x] **2.1.4** Addressing and Byte Ordering
+    - [ ] **2.1.5** Representing Strings
+    - [ ] **2.1.6** Representing Code
+    - [ ] **2.1.7** Introduction to Boolean Algebra
+    - [ ] **2.1.8** Bit-Level Operations in C
+    - [ ] **2.1.9** Logical Operations in C
+    - [ ] **2.1.10** Shift Operations in C
 - [ ] **2.2** Integer Representations
-- [ ] **2.2.1** Integral Data Types
-- [ ] **2.2.2** Unsigned Encodings
-- [ ] **2.2.3** Two’s-Complement Encodings
-- [ ] **2.2.4** Conversions Between Signed and Unsigned
-- [ ] **2.2.5** Signed vs. Unsigned in C
-- [ ] **2.2.6** Expanding the Bit Representation of a Number
-- [ ] **2.2.7** Truncating Numbers
-- [ ] **2.2.8** Advice on Signed vs. Unsigned
+    - [ ] **2.2.1** Integral Data Types
+    - [ ] **2.2.2** Unsigned Encodings
+    - [ ] **2.2.3** Two’s-Complement Encodings
+    - [ ] **2.2.4** Conversions Between Signed and Unsigned
+    - [ ] **2.2.5** Signed vs. Unsigned in C
+    - [ ] **2.2.6** Expanding the Bit Representation of a Number
+    - [ ] **2.2.7** Truncating Numbers
+    - [ ] **2.2.8** Advice on Signed vs. Unsigned
 - [ ] **2.3** Integer Arithmetic
-- [ ] **2.3.1** Unsigned Addition
-- [ ] **2.3.2** Two’s-Complement Addition
-- [ ] **2.3.3** Two’s-Complement Negation
-- [ ] **2.3.4** Unsigned Multiplication
-- [ ] **2.3.5** Two’s-Complement Multiplication
-- [ ] **2.3.6** Multiplying by Constants
-- [ ] **2.3.7** Dividing by Powers of Two
-- [ ] **2.3.8** Final Thoughts on Integer Arithmetic
+    - [ ] **2.3.1** Unsigned Addition
+    - [ ] **2.3.2** Two’s-Complement Addition
+    - [ ] **2.3.3** Two’s-Complement Negation
+    - [ ] **2.3.4** Unsigned Multiplication
+    - [ ] **2.3.5** Two’s-Complement Multiplication
+    - [ ] **2.3.6** Multiplying by Constants
+    - [ ] **2.3.7** Dividing by Powers of Two
+    - [ ] **2.3.8** Final Thoughts on Integer Arithmetic
 - [ ] **2.4** Floating Point
-- [ ] **2.4.1** Fractional Binary Numbers
-- [ ] **2.4.2** IEEE Floating-Point Representation
-- [ ] **2.4.3** Example Numbers
-- [ ] **2.4.4** Rounding
-- [ ] **2.4.5** Floating-Point Operations
-- [ ] **2.4.6** Floating Point in C
+    - [ ] **2.4.1** Fractional Binary Numbers
+    - [ ] **2.4.2** IEEE Floating-Point Representation
+    - [ ] **2.4.3** Example Numbers
+    - [ ] **2.4.4** Rounding
+    - [ ] **2.4.5** Floating-Point Operations
+    - [ ] **2.4.6** Floating Point in C
 
-### Machine-Level Representation of Programs 153
+### Chapter 3: Machine-Level Representation of Programs
 - [ ] **3.1** A Historical Perspective
 - [ ] **3.2** Program Encodings
 - [ ] **3.2.1** Machine-Level Code
@@ -118,7 +118,7 @@ ____
 - [ ] **3.13.6** Concluding Observations about x86-64
 - [ ] **3.14** Machine-Level Representations of Floating-Point Programs
 
-### Processor Architecture
+### Chapter 4: Processor Architecture
 - [ ] **4.1** The Y86 Instruction Set Architecture
 - [ ] **4.1.1** Programmer-Visible State
 - [ ] **4.1.2** Y86 Instructions
@@ -158,7 +158,7 @@ ____
 - [ ] **4.5.13** Unfinished Business
 - [ ] **4.6.1** Y86 Simulators
 
-### Optimizing Program Performance 473
+### Chapter 5: Optimizing Program Performance 473
 - [ ] **5.1** Capabilities and Limitations of Optimizing Compilers
 - [ ] **5.2** Expressing Program Performance
 - [ ] **5.3** Program Example
@@ -186,7 +186,7 @@ ____
 - [ ] **5.14.2** Using a Profiler to Guide Optimization
 - [ ] **5.14.3** Amdahl’s Law
 
-### The Memory Hierarchy
+### Chapter 6: The Memory Hierarchy
 - [ ] **6.1** Storage Technologies
 - [ ] **6.1.1** Random-Access Memory
 - [ ] **6.1.2** Disk Storage
@@ -214,7 +214,7 @@ ____
 - [ ] **6.6.3** Exploiting Locality in Your Programs
 
 ### Part II Running Programs on a System
-### Linking
+### Chapter 7: Linking
 - [ ] **7.1** Compiler Drivers
 - [ ] **7.2** Static Linking
 - [ ] **7.3** Object Files
@@ -233,7 +233,7 @@ ____
 - [ ] **7.12** Position-Independent Code (PIC)
 - [ ] **7.13** Tools for Manipulating Object Files
 
-### Exceptional Control Flow
+### Chapter 8: Exceptional Control Flow
 - [ ] **8.1** Exceptions
 - [ ] **8.1.1** Exception Handling
 - [ ] **8.1.2** Classes of Exceptions
@@ -263,7 +263,7 @@ ____
 - [ ] **8.6** Nonlocal Jumps
 - [ ] **8.7** Tools for Manipulating Processes
 
-### Virtual Memory
+### Chapter 9: Virtual Memory
 - [ ] **9.1** Physical and Virtual Addressing
 - [ ] **9.2** Address Spaces
 - [ ] **9.3** VM as a Tool for Caching
@@ -320,7 +320,7 @@ ____
 - [ ] **9.11.10** Introducing Memory Leaks
 
 ### Part III Interaction and Communication Between Programs
-### System-Level I/O
+### Chapter 10: System-Level I/O
 - [ ] **10.1** Unix I/O
 - [ ] **10.2** Opening and Closing Files
 - [ ] **10.3** Reading and Writing Files
@@ -333,7 +333,7 @@ ____
 - [ ] **10.8** Standard I/O
 - [ ] **10.9** Putting It Together: Which I/O Functions Should I Use?
 
-### Network Programming
+### Chapter 11: Network Programming
 - [ ] **11.1** The Client-Server Programming Model
 - [ ] **11.2** Networks
 - [ ] **11.3** The Global IP Internet
@@ -357,7 +357,7 @@ ____
 - [ ] **11.5.4** Serving Dynamic Content
 - [ ] **11.6** Putting It Together: The Tiny Web Server
 
-### Concurrent Programming 933
+### Chapter 12: Concurrent Programming
 - [ ] **12.1** Concurrent Programming with Processes
 - [ ] **12.1.1** A Concurrent Server Based on Processes
 - [ ] **12.1.2** Pros and Cons of Processes

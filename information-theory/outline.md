@@ -6,6 +6,10 @@
 
 - [x] [Information Theory - Khan Academy Course](https://www.khanacademy.org/computing/computer-science/informationtheory)
 
+## Videos
+
+- [ ] [MIT 6.050J: Information and Entropy, Spring 2008 (19 videos)](https://www.youtube.com/watch?v=phxsQrZQupo&list=PL_2Bwul6T-A7OldmhGODImZL8KEVE38X7)
+
 ## Other Resources
 
 * [Markov Chain](#markov-chain)
